@@ -1,0 +1,1209 @@
+Title,Author,Date,DOI,ML task,Sport,Gender,Competition (National vs International),Sample Country/Continent,Sample Region,Season,Sample Size,Data Modalities,Number of Features,Algorithm,Algorithm Family,Evaluation Metric,Performance
+One-match-ahead forecasting in two-team sports with stacked Bayesian regressions,"Lam, M. W. Y",2018,https://doi.org/10.1515/jaiscr-2018-0011,match outcome prediction,basketball,Male,National,USA,North America,2013-2015,1230.0,Notational Data,17.0,Sparse Spectrum Gaussian Process Regression,Kernel-Based Models,Accuracy,0.8528
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Logistic Regression,Linear Models,Accuracy,0.647
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.651
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,AdaBoost,Ensemble Methods,Accuracy,0.641
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Random Forest,Ensemble Methods,Accuracy,0.652
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Gaussian Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.633
+"Football result prediction with Bayesian network in Spanish league-Barcelona
+team","Owramipur, F., Eskandarian, P., & Mozneb Sadat, F.",2013,http://dx.doi.org/10.7763/IJCTE.2013.V5.802,match outcome prediction,football,Male,National,Spain,Europe,2008-2009,38.0,Notational Data,13.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.92
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Random Forest,Ensemble Methods,Accuracy,0.8126
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Random Forest,Ensemble Methods,RMSE,1.8717
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Random Forest,Ensemble Methods,MAE,1.4736
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Boosting,Ensemble Methods,Accuracy,0.7912
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Boosting,Ensemble Methods,RMSE,1.9606
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Boosting,Ensemble Methods,MAE,1.5417
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.6971
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Support Vector Machine,Kernel-Based Models,RMSE,2.0827
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Support Vector Machine,Kernel-Based Models,MAE,1.6939
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Linear Regression,Linear Models,Accuracy,0.7292
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Linear Regression,Linear Models,RMSE,2.021
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,International,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Linear Regression,Linear Models,MAE,1.6346
+Predicting NBA games with matrix factorization,"Tran, T.",2016,https://dspace.mit.edu/bitstream/handle/1721.1/106385/967660262-MIT.pdf?sequence=1,match outcome prediction,basketball,Male,National,USA,North America,2000-2015,,,,Matrix Factorization,Unsupervised Models,Accuracy,0.7095
+Predicting NBA games with matrix factorization,"Tran, T.",2016,https://dspace.mit.edu/bitstream/handle/1721.1/106385/967660262-MIT.pdf?sequence=1,match outcome prediction,basketball,Male,National,USA,North America,2000-2015,,,,Probabilistic Matrix Factorization,Unsupervised Models,Accuracy,0.7102
+Predicting NBA games with matrix factorization,"Tran, T.",2016,https://dspace.mit.edu/bitstream/handle/1721.1/106385/967660262-MIT.pdf?sequence=1,match outcome prediction,basketball,Male,National,USA,North America,2000-2015,,,,Dependent Probabilistic Matrix Factorization,Unsupervised Models,Accuracy,0.721
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,Notational Data,13.0,Linear Regression,Linear Models,Accuracy,0.7163
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,Notational Data,13.0,Random Forest,Ensemble Methods,Accuracy,0.699
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,Notational Data,13.0,Neural Network,Neural Networks,Accuracy,0.692
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,Notational Data,13.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.6695
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,Notational Data,13.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.6357
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6839
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6899
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6905
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.7042
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6898
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Random Forest,Ensemble Methods,Accuracy,0.6885
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Random Forest,Ensemble Methods,Accuracy,0.6942
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Random Forest,Ensemble Methods,Accuracy,0.6779
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Random Forest,Ensemble Methods,Accuracy,0.7137
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Random Forest,Ensemble Methods,Accuracy,0.6881
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7101
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7172
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7028
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7276
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7193
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Neural Network,Neural Networks,Accuracy,0.7077
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Neural Network,Neural Networks,Accuracy,0.7251
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Neural Network,Neural Networks,Accuracy,0.716
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Neural Network,Neural Networks,Accuracy,0.7446
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Neural Network,Neural Networks,Accuracy,0.7215
+Tactical pattern recognition in soccer games by means of special self-organizing maps,"Grunz A, Memmert D, Perl J",2012, https://doi.org/10.1016/j.humov.2011.02.008,performance prediction,football,Male,International,World,Global / Unspecified,,,,,Neural Network,Neural Networks,Accuracy,0.84
+Similarity calculation based on pass regions in soccer videos,"Takahashi S, Bertini M, Del Bimbo A, Haseyama M,
+Hagiwara T",2019,https://doi.org/10.1109/GCCE46687.2019.9015352,playing style,football,Male,,,Global / Unspecified,,,,,Deep Neural Network,Neural Networks,,
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Recall,0.928
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Precision,0.917
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,F1 Score,0.923
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Recall,0.871
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Precision,0.83
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,F1 Score,0.85
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Recall,0.928
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Precision,0.945
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,F1 Score,0.936
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Recall,0.791
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,Precision,0.812
+"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,performance prediction,football,,,,Global / Unspecified,,4611.0,Tracking Data,111.0,Deep Extreme Learning Machine,Neural Networks,F1 Score,0.801
+GreenSea: visual soccer analysis using broad learning system,"Sheng B, Li P, Zhang Y, Mao L",2020,https://doi.org/10.1109/TCYB.2020.2988792,playing style,football,,National,China,Asia,,8.0,Tracking Data,,Broad Learning System,Neural Networks,Accuracy,0.9826
+Positional analysis of Brazilian soccer players using GPS data,"Gasparini R, Álvaro A",2020,https://doi.org/10.5335/rbca.v12i3.10234,performance prediction,football,Male,National,Brazil,South America,,,,6.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.7409
+Positional analysis of Brazilian soccer players using GPS data,"Gasparini R, Álvaro A",2020,https://doi.org/10.5335/rbca.v12i3.10234,performance prediction,football,Male,National,Brazil,South America,,,,6.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.7409
+"Predicting wins, losses and attributes’ sensitivities in the Soccer World Cup 2018
+using neural network analysis","Hassan A, Akl A-R, Hassan I, Sunderland C",2020,https://doi.org/10.3390/s20113213,match outcome prediction,football,Male,International,,Global / Unspecified,,57.0,Tracking Data,75.0,Neural Network,Neural Networks,Accuracy,0.833
+"Predicting wins, losses and attributes’ sensitivities in the Soccer World Cup 2018
+using neural network analysis","Hassan A, Akl A-R, Hassan I, Sunderland C",2020,https://doi.org/10.3390/s20113213,match outcome prediction,football,Male,International,,Global / Unspecified,,57.0,Tracking Data,75.0,Neural Network,Neural Networks,Accuracy,0.727
+"Process mining of football event data: a novel approach for tactical insights into the
+game","Kröckel P, Bodendorf F",2020,https://doi.org/10.3389/frai.2020.00047,playing style,football,Male,International,Europe,Europe,,1.0,Notational Data,,Clustering,Unsupervised Models,,
+"DNN-based multi-output model for predicting soccer
+team tactics","Lee GJ, Jung JJ",2022,https://doi.org/10.7717/peerj-cs.853,performance prediction,football,Male,National,England,Europe,2010-2021,418.0,,,Deep Neural Network,Neural Networks,Accuracy,0.9497
+"DNN-based multi-output model for predicting soccer
+team tactics","Lee GJ, Jung JJ",2022,https://doi.org/10.7717/peerj-cs.853,playing style,football,Male,National,England,Europe,2010-2021,418.0,,,Deep Neural Network,Neural Networks,Accuracy,0.8335
+"DNN-based multi-output model for predicting soccer
+team tactics","Lee GJ, Jung JJ",2022,https://doi.org/10.7717/peerj-cs.853,match outcome prediction,football,Male,National,England,Europe,2010-2021,418.0,,,Deep Neural Network,Neural Networks,Accuracy,0.5782
+"Optimising long-term outcomes using real-world fluent objectives:
+an application to football","Beal R, Chalkiadakis G, Norman TJ, Ramchurn SD",2021,https://doi.org/10.48550/arXiv.2102.09469,performance evaluation,football,Male,National,England,Europe,2017-2019,1046.0,Notational Data,,Markov Chain Monte Carlo,Bayesian/Probabilistic Models,Accuracy,0.77
+Soccermap: a deep learning architecture for visually- interpretable analysis in soccer,"Fernández J, Bornn L",2020,https://doi.org/10.1007/978-3-030-67670-4_30,performance prediction,football,Male,National,England,Europe,2013-2015,740.0,Notational Data,,Convolutional Neural Network,Neural Networks,Log Loss,0.217
+Soccermap: a deep learning architecture for visually- interpretable analysis in soccer,"Fernández J, Bornn L",2020,https://doi.org/10.1007/978-3-030-67670-4_30,performance prediction,football,Male,National,England,Europe,2013-2015,740.0,Notational Data,,Convolutional Neural Network,Neural Networks,ECE,0.0225
+Technical and tactical command decision algorithm of football matches based on big data and neural network,"Fang L, Wei Q, Xu CJ",2021,https://doi.org/10.1155/2021/5544071,performance prediction,football,,National,China,Asia,,,Tracking Data,,Deep Neural Network,Neural Networks,Accuracy,0.722
+Using machine learning pipeline to predict entry into the attack zone in football,"Stival L, Pinto A, Andrade FdSPd, Santiago PRP,
+Biermann H, Torres RdS",2023,https://doi.org/10.1371/journal.pone.0265372,performance prediction,football,Male,National,Brazil,South America,,,Tracking Data,8.0,Deep Neural Network,Neural Networks,Balanced Accuracy,0.744
+"GOALALERT: A novel
+real-time technical team alert approach using machine learning on an IoT-based system in sports","Karakaya A, Ulu A, Akleylek S",2022,https://doi.org/10.1016/j.micpro.2022.104606,performance prediction,football,Male,National,Turkey,Europe,,470.0,Tracking Data,110.0,AdaBoost,Ensemble Methods,Accuracy,0.872
+"GOALALERT: A novel
+real-time technical team alert approach using machine learning on an IoT-based system in sports","Karakaya A, Ulu A, Akleylek S",2022,https://doi.org/10.1016/j.micpro.2022.104606,performance prediction,football,Male,National,Turkey,Europe,,470.0,Tracking Data,110.0,AdaBoost,Ensemble Methods,F1 Score,0.8178
+"GOALALERT: A novel
+real-time technical team alert approach using machine learning on an IoT-based system in sports","Karakaya A, Ulu A, Akleylek S",2022,https://doi.org/10.1016/j.micpro.2022.104606,performance prediction,football,Male,National,Turkey,Europe,,470.0,Tracking Data,110.0,Boosted Trees,Ensemble Methods,Accuracy,0.859
+"GOALALERT: A novel
+real-time technical team alert approach using machine learning on an IoT-based system in sports","Karakaya A, Ulu A, Akleylek S",2022,https://doi.org/10.1016/j.micpro.2022.104606,performance prediction,football,Male,National,Turkey,Europe,,470.0,Tracking Data,110.0,Boosted Trees,Ensemble Methods,F1 Score,0.8531
+"GOALALERT: A novel
+real-time technical team alert approach using machine learning on an IoT-based system in sports","Karakaya A, Ulu A, Akleylek S",2022,https://doi.org/10.1016/j.micpro.2022.104606,performance prediction,football,Male,National,Turkey,Europe,,470.0,Tracking Data,110.0,Decision Tree,Individual Decision Trees,Accuracy,0.851
+"GOALALERT: A novel
+real-time technical team alert approach using machine learning on an IoT-based system in sports","Karakaya A, Ulu A, Akleylek S",2022,https://doi.org/10.1016/j.micpro.2022.104606,performance prediction,football,Male,National,Turkey,Europe,,470.0,Tracking Data,110.0,Decision Tree,Individual Decision Trees,F1 Score,0.8372
+"Discerning tactical
+patterns for professional soccer teams: An enhanced topic model with
+applications","Q. Wang, H. Zhu, W. Hu, Z. Shen, and Y. Yao",2015,http://dx.doi.org/10.1145/2783258.2788577,playing style,football,Male,National,Spain,Europe,2013-2014,24.0,Notational Data,,,,,
+"Attacking and defensive styles of play in soccer: Analysis
+of Spanish and English elite teams","J. Fernandez-Navarro, L. Fradua, A. Zubillaga, P. R. Ford, and A. P.
+Mcrobert",2016,http://dx.doi.org/10.1080/02640414.2016.1169309,performance evaluation,football,Male,International,Europe,Europe,2006-2007 2010-2011,97.0,Notational Data,19.0,Principal Component Analysis,Unsupervised Models,,
+Measuring football players’ on-theball contributions from passes during games,L. Bransen and J. Van Haaren,2018,http://dx.doi.org/10.1007/978-3-030-17274-9_1,performance evaluation,football,Male,International,Europe,Europe,2014-2018,9061.0,Notational Data,,K-Nearest Neighbors,Distance/Neighbor-Based,Log Loss,1.0521
+"PlayeRank: Data-driven performance evaluation and
+player ranking in soccer via a machine learning approach","L. Pappalardo, P. Cintia, P. Ferragina, E. Massucco, D. Pedreschi, and
+F. Giannotti",2019,http://dx.doi.org/10.1145/3343172,performance evaluation,football,Male,International,World,Global / Unspecified,,19619.0,Notational Data,76.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.74
+"Flow motifs in soccer: What can
+passing behavior tell us?",J. Bekkers and S. Dabadghao,2019,http://dx.doi.org/10.3233/JSA-190290,playing style,football,Male,International,Europe,Europe,2012-2015,8219.0,,,,,,
+"Deep soccer analytics:
+Learning an action-value function for evaluating soccer players,","G. Liu, Y. Luo, O. Schulte, and T. Kharrat",2020,https://doi.org/10.1007/s10618-020-00705-9,performance evaluation,football,Male,International,Europe,Europe,2017-2018,2976.0,Notational Data,,Neural Network,Neural Networks,MAE,0.1
+"Deep soccer analytics:
+Learning an action-value function for evaluating soccer players,","G. Liu, Y. Luo, O. Schulte, and T. Kharrat",2020,https://doi.org/10.1007/s10618-020-00705-9,performance evaluation,football,Male,International,Europe,Europe,2017-2018,2976.0,Notational Data,,Neural Network,Neural Networks,Goal Impact Metric,0.844
+"How data availability affects the ability
+to learn good xG models",P. Robberechts and J. Davis,2020,http://dx.doi.org/10.1007/978-3-030-64912-8_2,performance evaluation,football,Male,International,Europe,Europe,2012-2019,,Notational Data,47.0,XGBoost,Ensemble Methods,Brier Score,0.078
+"How data availability affects the ability
+to learn good xG models",P. Robberechts and J. Davis,2020,http://dx.doi.org/10.1007/978-3-030-64912-8_2,performance evaluation,football,Male,International,Europe,Europe,2012-2019,,Notational Data,47.0,Logistic Regression,Linear Models,Brier Score,0.082
+"Player vectors: Characterizing soccer
+players’ playing style from match event streams",T. Decroos and J. Davis,2020,http://dx.doi.org/10.1007/978-3-030-46133-1_34,performance prediction,football,Male,International,Europe,Europe,2012-2017,9155.0,Notational Data,18.0,,,,0.382
+"Player vectors: Characterizing soccer
+players’ playing style from match event streams",T. Decroos and J. Davis,2020,http://dx.doi.org/10.1007/978-3-030-46133-1_34,performance prediction,football,Male,International,Europe,Europe,2012-2017,9155.0,Notational Data,18.0,,,,0.33
+"Why would I trust your numbers?” On the
+explainability of expected values in soccer",J. Van Haaren,2021,https://doi.org/10.48550/arXiv.2105.13778,performance prediction,football,Male,International,Europe,Europe,2017-2021,,Notational Data,,Explainable Boosting Machine,Ensemble Methods,AUC,0.7922
+"Why would I trust your numbers?” On the
+explainability of expected values in soccer",J. Van Haaren,2021,https://doi.org/10.48550/arXiv.2105.13778,performance prediction,football,Male,International,Europe,Europe,2017-2021,,Notational Data,,Explainable Boosting Machine,Ensemble Methods,Log Loss,0.2869
+"Why would I trust your numbers?” On the
+explainability of expected values in soccer",J. Van Haaren,2021,https://doi.org/10.48550/arXiv.2105.13778,performance prediction,football,Male,International,Europe,Europe,2017-2021,,Notational Data,,Explainable Boosting Machine,Ensemble Methods,Brier Score,0.0823
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,AUC,0.77
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,AUC,0.698
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,AUC,0.701
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,AUC,0.862
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,Brier Score,0.184
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,Brier Score,0.079
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,Brier Score,0.007
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,Brier Score,0.003
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,F1 Score,0.522
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,F1 Score,0.484
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,F1 Score,0.201
+"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,performance prediction,football,Male,National,Japan,Asia,2018-2019,45.0,Notational Data,139.0,XGBoost,Ensemble Methods,F1 Score,0.0
+"A framework for the finegrained evaluation of the instantaneous expected value of soccer
+possessions","J. Fernández, L. Bornn, and D. Cervone",2021,https://doi.org/10.48550/arXiv.2011.09426,performance prediction,football,Male,National,England,Europe,2013-2015,633.0,,,XGBoost,Ensemble Methods,Log Loss,0.254
+"A framework for the finegrained evaluation of the instantaneous expected value of soccer
+possessions","J. Fernández, L. Bornn, and D. Cervone",2021,https://doi.org/10.48550/arXiv.2011.09426,performance prediction,football,Male,National,England,Europe,2013-2015,633.0,,,XGBoost,Ensemble Methods,ECE,0.00594
+"A framework for the finegrained evaluation of the instantaneous expected value of soccer
+possessions","J. Fernández, L. Bornn, and D. Cervone",2021,https://doi.org/10.48550/arXiv.2011.09426,performance prediction,football,Male,National,England,Europe,2013-2015,633.0,,,XGBoost,Ensemble Methods,Log Loss,0.19
+"A framework for the finegrained evaluation of the instantaneous expected value of soccer
+possessions","J. Fernández, L. Bornn, and D. Cervone",2021,https://doi.org/10.48550/arXiv.2011.09426,performance prediction,football,Male,National,England,Europe,2013-2015,633.0,,,Neural Network,Neural Networks,ECE,0.0047
+"Making offensive play
+predictable-using a graph convolutional network to understand
+defensive performance in soccer","M. Stöckl, T. Seidl, D. Marley, and P. Power",2021,https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf,performance prediction,football,Male,International,Europe,Europe,,1200.0,,,Graph Convolutional Neural Network,Neural Networks,Accuracy,0.86
+"Making offensive play
+predictable-using a graph convolutional network to understand
+defensive performance in soccer","M. Stöckl, T. Seidl, D. Marley, and P. Power",2021,https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf,performance prediction,football,Male,International,Europe,Europe,,1200.0,,,Graph Convolutional Neural Network,Neural Networks,Log Loss,0.28
+"Making offensive play
+predictable-using a graph convolutional network to understand
+defensive performance in soccer","M. Stöckl, T. Seidl, D. Marley, and P. Power",2021,https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf,performance prediction,football,Male,International,Europe,Europe,,1200.0,,,Graph Convolutional Neural Network,Neural Networks,Accuracy,0.83
+"Making offensive play
+predictable-using a graph convolutional network to understand
+defensive performance in soccer","M. Stöckl, T. Seidl, D. Marley, and P. Power",2021,https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf,performance prediction,football,Male,International,Europe,Europe,,1200.0,,,Graph Convolutional Neural Network,Neural Networks,Log Loss,0.07
+"Making offensive play
+predictable-using a graph convolutional network to understand
+defensive performance in soccer","M. Stöckl, T. Seidl, D. Marley, and P. Power",2021,https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf,performance prediction,football,Male,International,Europe,Europe,,1200.0,,,Graph Convolutional Neural Network,Neural Networks,Accuracy,0.95
+"Making offensive play
+predictable-using a graph convolutional network to understand
+defensive performance in soccer","M. Stöckl, T. Seidl, D. Marley, and P. Power",2021,https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf,performance prediction,football,Male,International,Europe,Europe,,1200.0,,,Graph Convolutional Neural Network,Neural Networks,Log Loss,0.16
+"Player chemistry: Striving for a
+perfectly balanced soccer team",L. Bransen and J. Van Haaren,2020,https://doi.org/10.48550/arXiv.2003.01712,performance prediction,football,Male,International,World,Global / Unspecified,2015-2020,106496.0,,,CatBoost,Ensemble Methods,RMSE,0.04464
+"Player chemistry: Striving for a
+perfectly balanced soccer team",L. Bransen and J. Van Haaren,2020,https://doi.org/10.48550/arXiv.2003.01712,performance prediction,football,Male,International,World,Global / Unspecified,2015-2020,106496.0,,,CatBoost,Ensemble Methods,RMSE,0.88906
+"Developing a data-driven player
+ranking in soccer using predictive model weights","J. Brooks, M. Kerr, and J. V. Guttag",2016,http://dx.doi.org/10.1145/2939672.2939695,performance prediction,football,Male,National,Spain,Europe,2012-2013,400.0,,360.0,Support Vector Machine,Kernel-Based Models,AUC,0.71
+"Developing a data-driven player
+ranking in soccer using predictive model weights","J. Brooks, M. Kerr, and J. V. Guttag",2016,http://dx.doi.org/10.1145/2939672.2939695,performance prediction,football,Male,National,Spain,Europe,2012-2013,400.0,,360.0,Support Vector Machine,Kernel-Based Models,AUC,0.71
+"Evaluating soccer player: From live
+camera to deep reinforcement learning",P. Garnier and T. Gregoir,2021,https://doi.org/10.48550/arXiv.2101.05388,player evaluation,football,Male,International,World,Global / Unspecified,,,,,Deep Reinforcement Learning,Neural Networks,Mean IoU,0.908
+"Evaluating soccer player: From live
+camera to deep reinforcement learning",P. Garnier and T. Gregoir,2021,https://doi.org/10.48550/arXiv.2101.05388,player evaluation,football,Male,International,World,Global / Unspecified,,,,,Deep Reinforcement Learning,Neural Networks,Median IoU,0.923
+"Beyond
+action valuation: A deep reinforcement learning framework for
+optimizing player decisions in soccer","P. Rahimian, J. VanHaaren, T. Abzhanova, and L. Toka",2022,https://www.sloansportsconference.com/research-papers/beyond-action-valuation-a-deep-reinforcement-learning-framework-for-optimizing-player-decisions-in-soccer,performance evaluation,football,Male,National,Belgium,Europe,2020-2022,430.0,Notational Data & Tracking Data,11.0,Deep Reinforcement Learning,Neural Networks,EPO diff,
+"SoccerCPD:
+Formation and role change-point detection in soccer matches using
+spatiotemporal tracking data","H. Kim, B. Kim, D. Chung, J. Yoo, and S.-K. Ko",2022,http://dx.doi.org/10.1145/3534678.3539150,performance prediction,football,Male,National,South Korea,Asia,2019-2020,809.0,Tracking Data,,,,Accuracy,0.724
+"SoccerCPD:
+Formation and role change-point detection in soccer matches using
+spatiotemporal tracking data","H. Kim, B. Kim, D. Chung, J. Yoo, and S.-K. Ko",2022,http://dx.doi.org/10.1145/3534678.3539150,performance prediction,football,Male,National,South Korea,Asia,2019-2020,809.0,Tracking Data,,,,Accuracy,0.865
+"Multi-agent graph-attention
+communication and teaming","Y. Niu, R. Paleja, and M. Gombolay",2021,https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf,performance evaluation,football,Male,,,Global / Unspecified,,,,,Multi-Agent Reinforcement Learning,Neural Networks,Success Rate,0.982
+"Neighborhood cognition consistent multi-agent reinforcement
+learning","H. Mao, W. Liu, J. Hao, J. Luo, D. Li, Z. Zhang, J. Wang, and Z. Xiao",2022,https://doi.org/10.48550/arXiv.1912.01160,performance evaluation,football,Male,,,Global / Unspecified,,,,,Multi-Agent Reinforcement Learning,Neural Networks,Mean Reward,0.9
+"Adaptive inner-reward shaping in sparse
+reward games","D. Yang and Y. Tang,",2020,https://ieeexplore.ieee.org/abstract/document/9207302,performance evaluation,football,,,,Global / Unspecified,,,Google Research Football,,Proximal Policy Optimization,Neural Networks,Mean Reward,
+"ELIGN:
+Expectation alignment as a multi-agent intrinsic reward","Z. Ma, R. Wang, L. Fei-Fei, M. S. Bernstein, and R. Krishna",2020,https://doi.org/10.48550/arXiv.2210.04365,performance evaluation,football,,,,Global / Unspecified,,,Google Research Football,,Multi-Agent Reinforcement Learning,Neural Networks,Mean Reward,
+"Individual reward assisted multi-agent reinforcement
+learning","L. Wang, Y. Zhang, Y. Hu, W. Wang, C. Zhang, Y. Gao, J. Hao, T.
+Lv, and C. Fan,",2022,https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf,performance evaluation,football,,,,Global / Unspecified,,,Google Research Football,,Multi-Agent Reinforcement Learning,Neural Networks,,
+"Predicting match
+outcome according to the quality of
+opponent in the English premier league
+using situational variables and team
+performance indicator","Bilek G, Ulas E.",2019,http://dx.doi.org/10.1080/24748668.2019.1684773,match outcome prediction,football,Male,National,England,Europe,2017-2018,380.0,,22.0,Decision Tree,Individual Decision Trees,Accuracy,0.679
+"Predicting match
+outcome according to the quality of
+opponent in the English premier league
+using situational variables and team
+performance indicator","Bilek G, Ulas E.",2019,http://dx.doi.org/10.1080/24748668.2019.1684773,match outcome prediction,football,Male,National,England,Europe,2017-2018,380.0,,22.0,Decision Tree,Individual Decision Trees,Accuracy,0.739
+"Predicting match
+outcome according to the quality of
+opponent in the English premier league
+using situational variables and team
+performance indicator","Bilek G, Ulas E.",2019,http://dx.doi.org/10.1080/24748668.2019.1684773,match outcome prediction,football,Male,National,England,Europe,2017-2018,380.0,,22.0,Decision Tree,Individual Decision Trees,Accuracy,0.784
+"Finding efficient
+strategies in 3-versus-2 small-sided
+games of youth soccer players","Leser R, Hoch T, Tan X, Moser B,
+Kellermayr G, Baca A",2019,http://dx.doi.org/10.26582/k.51.1.7,performance prediction,football,Male,National,Austria,Europe,,279.0,Tracking Data,30.0,Spectral Clustering,Unsupervised Models,,
+"In-game behaviour
+analysis of football players using machine
+learning techniques based on player
+statistics","García-Aliaga A, Marquina M, Coterón J,
+Rodríguez-González A,
+Luengo-Sánchez S",2021,https://doi.org/10.1177/1747954120959762,performance prediction,football,Male,International,World,Global / Unspecified,2012-2019,50000.0,,52.0,t-SNE RIPPER,Unsupervised Models,Accuracy,0.79
+A hybrid ensemble learning framework for basketball outcomes prediction,"Cai, W., Yu, D., Wu, Z., Du, X. and Zhou, T",2019,https://doi.org/10.1016/J.PHYSA.2019.121461,match outcome prediction,basketball,Male,National,China,Asia,2016-2017,280.0,,24.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.84
+A hybrid ensemble learning framework for basketball outcomes prediction,"Cai, W., Yu, D., Wu, Z., Du, X. and Zhou, T",2019,https://doi.org/10.1016/J.PHYSA.2019.121461,match outcome prediction,basketball,Male,National,China,Asia,2016-2017,280.0,,24.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.82
+The Impact of Selecting a Validation Method in Machine Learning on Predicting Basketball Game,"Horvat, T., Havaš, L., Symmetry, D.S",2020,https://doi.org/10.3390/sym12030431,match outcome prediction,basketball,Male,National,USA,North America,2009-2018,11578.0,,26.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.6001
+The Impact of Selecting a Validation Method in Machine Learning on Predicting Basketball Game,"Horvat, T., Havaš, L., Symmetry, D.S",2020,https://doi.org/10.3390/sym12030431,match outcome prediction,basketball,Male,National,USA,North America,2009-2018,11578.0,,26.0,Logistic Regression,Linear Models,Accuracy,0.5616
+The Impact of Selecting a Validation Method in Machine Learning on Predicting Basketball Game,"Horvat, T., Havaš, L., Symmetry, D.S",2020,https://doi.org/10.3390/sym12030431,match outcome prediction,basketball,Male,National,USA,North America,2009-2018,11578.0,,26.0,Multilayer Perceptron,Neural Networks,Accuracy,0.5917
+The Impact of Selecting a Validation Method in Machine Learning on Predicting Basketball Game,"Horvat, T., Havaš, L., Symmetry, D.S",2020,https://doi.org/10.3390/sym12030431,match outcome prediction,basketball,Male,National,USA,North America,2009-2018,11578.0,,26.0,Random Forest,Ensemble Methods,Accuracy,0.5824
+The Impact of Selecting a Validation Method in Machine Learning on Predicting Basketball Game,"Horvat, T., Havaš, L., Symmetry, D.S",2020,https://doi.org/10.3390/sym12030431,match outcome prediction,basketball,Male,National,USA,North America,2009-2018,11578.0,,26.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.5824
+Adversarial synergy graph model for predicting game outcomes in human basketball,"Liemhetcharat, S. and Luo, Y",2015,https://ala2015.csc.liv.ac.uk/papers/ala15_liemhetcharat.pdf,match outcome prediction,basketball,Male,National,USA,North America,2007-2010,,,18.0,Adversarial Synergy Graph,Neural Networks,Accuracy,0.699
+A novel basketball result prediction model using a concurrent neuro-fuzzy system,"Ozkan, I.A",2020,https://doi.org/10.1080/08839514.2020.1804229,match outcome prediction,basketball,Male,National,Turkey,Europe,2015-2016,240.0,,9.0,Neural Network,Neural Networks,Accuracy,0.708
+A novel basketball result prediction model using a concurrent neuro-fuzzy system,"Ozkan, I.A",2020,https://doi.org/10.1080/08839514.2020.1804229,match outcome prediction,basketball,Male,National,Turkey,Europe,2015-2016,240.0,,9.0,Concurrent Neuro-Fuzzy System,Neural Networks,Accuracy,0.792
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Precision,0.54
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Recall,0.88
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.67
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Precision,0.55
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Recall,0.49
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.52
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,Precision,0.6
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,Recall,0.78
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,F1 Score,0.68
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,Precision,0.57
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,Recall,0.53
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,F1 Score,0.55
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,Precision,0.4
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,Recall,0.22
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,F1 Score,0.28
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,Precision,0.6
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,Recall,0.77
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,F1 Score,0.67
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,Precision,0.59
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,Recall,0.52
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,F1 Score,0.54
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,Precision,0.4
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,Recall,0.26
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,F1 Score,0.31
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Precision,0.55
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Recall,0.8
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.67
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Precision,0.57
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Recall,0.51
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.54
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Precision,0.39
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Recall,0.09
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.15
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Naïve Bayes,Bayesian/Probabilistic Models,Ranked Probability Score,0.2291
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Support Vector Machine,Kernel-Based Models,Ranked Probability Score,0.2246
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Random Forest,Ensemble Methods,Ranked Probability Score,0.2195
+"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League", R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,match outcome prediction,football,Male,National,England,Europe,2005-2016,,,33.0,Gradient Boosting,Ensemble Methods,Ranked Probability Score,0.2156
+"Sports data mining: predicting
+ results for the college football games", C. K. Leung and K. W. Joseph,2014,https://doi.org/10.1016/j.procs.2014.08.153,match outcome prediction,american football,Male,National,USA,North America,2005-2014,,Notational Data,,Similarity Classifier,Distance/Neighbor-Based,Accuracy,0.9143
+"Sports data mining: predicting
+ results for the college football games", C. K. Leung and K. W. Joseph,2014,https://doi.org/10.1016/j.procs.2014.08.153,match outcome prediction,american football,Male,National,USA,North America,2005-2014,,Notational Data,,Similarity Classifier,Distance/Neighbor-Based,Accuracy,0.9714
+"Cognitive
+ skills learning: Pen input patterns in computer-based athlete
+ training","N.Ruiz,Q.Q.Feng,R.Taib,T.Handke,andF.Chen",2010,http://dx.doi.org/10.1145/1891903.1891955,performance evaluation,basketball,,,,Global / Unspecified,,,Tracking Data,,,,,
+"Human decision making and
+ artificial intelligence: a comparison in the domain of sports
+ prediction",A. Pretorius and D. A. Parry,2016,http://dx.doi.org/10.1145/2987491.2987493,match outcome prediction,rugby,Male,International,World,Global / Unspecified,2013-2015,427.0,,,Random Forest,Ensemble Methods,Accuracy,0.8958
+"Sports play visualiza
+tion system using trajectory mining method"," T. Tani, H.-H. Huang, and K. Kawagoe,",2014,https://doi.org/10.1016/j.protcy.2014.11.020,performance evaluation,american football,Male,,,Global / Unspecified,,,Tracking Data,,Dynamic Time Warping,Unsupervised Models,System Usability Score,0.9
+"Bayesian 
+Hierarchical Modelling for the Prediction of Football 
+Results",Gianluca Baio and Marta Blangiardo,2009,http://dx.doi.org/10.1080/02664760802684177,performance prediction,football,Male,National,Italy,Europe,1991-1992 2007-2008,636.0,,6.0,Bayesian Hierarchical Model,Bayesian/Probabilistic Models,,
+"Analyzing basketball games by a support
+vector machines with decision tree model.","Pai PF, ChangLiao LH, Lin KP.",2017,https://link.springer.com/article/10.1007/s00521-016-2321-9,match outcome prediction,basketball,Male,National,USA,North America,2008-2010,400.0,,17.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.8525
+"Explaining match outcome during
+the men’s basketball tournament at the Olympic Game","Leicht AS, Gomez MA, Woods CT",2017,https://pmc.ncbi.nlm.nih.gov/articles/PMC5721175/,match outcome prediction,basketball,Male,International,World,Global / Unspecified,2004-2016,156.0,Event Data,7.0,Logistic Regression,Linear Models,Accuracy,0.855
+"Explaining match outcome during
+the men’s basketball tournament at the Olympic Game","Leicht AS, Gomez MA, Woods CT",2017,https://pmc.ncbi.nlm.nih.gov/articles/PMC5721175/,match outcome prediction,basketball,Male,International,World,Global / Unspecified,2004-2016,156.0,Event Data,7.0,Decision Tree,Individual Decision Trees,Accuracy,0.855
+The use of data mining for basketball matches outcomes prediction,"Miljkovi_x0013_c, D., Gaji_x0013_c, L., Kovacˇevi_x0013_c, A., & Konjovi_x0013_c, Z.",2010,http://dx.doi.org/10.1109/SISY.2010.5647440,match outcome prediction,basketball,Male,National,USA,North America,2009-2010,778.0,Event Data,141.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.67
+A fuzzy classification system for prediction of the results of the basketball games,"Trawinski, K",2010,http://dx.doi.org/10.1109/FUZZY.2010.5584399,match outcome prediction,basketball,Male,National,Spain,Europe,2008-2009,245.0,Event Data,5.0,Linear Regression,Linear Models,Global Error,0.311
+A fuzzy classification system for prediction of the results of the basketball games,"Trawinski, K",2010,http://dx.doi.org/10.1109/FUZZY.2010.5584399,match outcome prediction,basketball,Male,National,Spain,Europe,2008-2009,245.0,Event Data,5.0,Linear Regression,Linear Models,Standard Deviation,0.082
+A fuzzy classification system for prediction of the results of the basketball games,"Trawinski, K",2010,http://dx.doi.org/10.1109/FUZZY.2010.5584399,match outcome prediction,basketball,Male,National,Spain,Europe,2008-2009,245.0,Event Data,5.0,Linear Regression,Linear Models,Accuracy,0.689
+A fuzzy classification system for prediction of the results of the basketball games,"Trawinski, K",2010,http://dx.doi.org/10.1109/FUZZY.2010.5584399,match outcome prediction,basketball,Male,National,Spain,Europe,2008-2009,245.0,Event Data,5.0,Fuzzy Classification,Rule-based Classification,Global Error,0.285
+A fuzzy classification system for prediction of the results of the basketball games,"Trawinski, K",2010,http://dx.doi.org/10.1109/FUZZY.2010.5584399,match outcome prediction,basketball,Male,National,Spain,Europe,2008-2009,245.0,Event Data,5.0,Fuzzy Classification,Rule-based Classification,Standard Deviation,0.075
+A fuzzy classification system for prediction of the results of the basketball games,"Trawinski, K",2010,http://dx.doi.org/10.1109/FUZZY.2010.5584399,match outcome prediction,basketball,Male,National,Spain,Europe,2008-2009,245.0,Event Data,5.0,Fuzzy Classification,Rule-based Classification,Accuracy,0.715
+System for prediction of the winner in a sports game,"Zdravevski, E., & Kulakov, A",2010,http://dx.doi.org/10.1007/978-3-642-10781-8_7,match outcome prediction,basketball,Male,National,USA,North America,,2420.0,Event Data,10.0,Logistic Regression,Linear Models,Precision,0.728
+One-match-ahead forecasting in two-team sports with stacked Bayesian regressions,"Lam, M. W. Y",2018,https://doi.org/10.1515/jaiscr-2018-0011,match outcome prediction,basketball,Male,National,USA,North America,2013-2015,1230.0,Notational Data,17.0,Sparse Spectrum Gaussian Process Regression,Kernel-Based Models,Accuracy,0.8528
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Logistic Regression,Linear Models,Accuracy,0.647
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.651
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,AdaBoost,Ensemble Methods,Accuracy,0.641
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Random Forest,Ensemble Methods,Accuracy,0.652
+Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,,match outcome prediction,basketball,Male,National,USA,North America,1991-1998,,Notational Data,14.0,Random Forest,Ensemble Methods,Accuracy,0.652
+"Football result prediction with Bayesian network in Spanish league-Barcelona
+team","Owramipur, F., Eskandarian, P., & Mozneb Sadat, F.",2013,http://dx.doi.org/10.7763/IJCTE.2013.V5.802,match outcome prediction,football,Male,National,Spain,Europe,2008-2009,38.0,Notational Data,13.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.92
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Random Forest,Ensemble Methods,Accuracy,0.8126
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Random Forest,Ensemble Methods,RMSE,1.8717
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Random Forest,Ensemble Methods,MAE,1.4736
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Boosting,Ensemble Methods,Accuracy,0.7912
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Boosting,Ensemble Methods,RMSE,1.9606
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Boosting,Ensemble Methods,MAE,1.5417
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.6971
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Support Vector Machine,Kernel-Based Models,RMSE,2.0827
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Support Vector Machine,Kernel-Based Models,MAE,1.6939
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Linear Regression,Linear Models,Accuracy,0.7292
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Linear Regression,Linear Models,RMSE,2.021
+Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,match outcome prediction,football,Male,National,Europe,Europe,2006-2018,68323.0,Notational Data,41.0,Linear Regression,Linear Models,MAE,1.6346
+Predicting NBA games with matrix factorization,"Tran, T.",2016,https://dspace.mit.edu/bitstream/handle/1721.1/106385/967660262-MIT.pdf?sequence=1,match outcome prediction,basketball,Male,National,USA,North America,2000-2015,,,,Matrix Factorization,Unsupervised Models,Accuracy,0.7095
+Predicting NBA games with matrix factorization,"Tran, T.",2016,https://dspace.mit.edu/bitstream/handle/1721.1/106385/967660262-MIT.pdf?sequence=1,match outcome prediction,basketball,Male,National,USA,North America,2000-2015,,,,Probabilistic Matrix Factorization,Unsupervised Models,Accuracy,0.7102
+Predicting NBA games with matrix factorization,"Tran, T.",2016,https://dspace.mit.edu/bitstream/handle/1721.1/106385/967660262-MIT.pdf?sequence=1,match outcome prediction,basketball,Male,National,USA,North America,2000-2015,,,,Dependent Probabilistic Matrix Factorization,Unsupervised Models,Accuracy,0.721
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,,13.0,Linear Regression,Linear Models,Accuracy,0.7163
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,,13.0,Random Forest,Ensemble Methods,Accuracy,0.699
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,,13.0,Neural Network,Neural Networks,Accuracy,0.692
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,,13.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.6695
+Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,match outcome prediction,football,Male,National,Europe,Europe,2012-2017,,Notational Data,13.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.6357
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6839
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6899
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6905
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.7042
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Decision Tree,Individual Decision Trees,Accuracy,0.6898
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Random Forest,Ensemble Methods,Accuracy,0.6885
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Random Forest,Ensemble Methods,Accuracy,0.6942
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Random Forest,Ensemble Methods,Accuracy,0.6779
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Random Forest,Ensemble Methods,Accuracy,0.7137
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Random Forest,Ensemble Methods,Accuracy,0.6881
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7101
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7172
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7028
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7276
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.7193
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5336.0,,,Neural Network,Neural Networks,Accuracy,0.7077
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5389.0,,,Neural Network,Neural Networks,Accuracy,0.7251
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5383.0,,,Neural Network,Neural Networks,Accuracy,0.716
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5399.0,,,Neural Network,Neural Networks,Accuracy,0.7446
+"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,match outcome prediction,basketball,Male,National,USA,North America,2009-2013,5464.0,,,Neural Network,Neural Networks,Accuracy,0.7215
+"An evaluation of human and
+computer-based predictions of the 2003 rugby union world cup,","O’Donoghue, P., & Williams, J",2004,https://doi.org/10.1515/ijcss-2016-0003,match outcome prediction,rugby,Male,International,worldwide,Global / Unspecified,1987-2003,185.0,Notational Data,3.0,Linear Regression,Linear Models,Raw Score,43.0
+"An evaluation of human and
+computer-based predictions of the 2003 rugby union world cup,","O’Donoghue, P., & Williams, J",2004,https://doi.org/10.1515/ijcss-2016-0003,match outcome prediction,rugby,Male,International,worldwide,Global / Unspecified,1987-2003,185.0,Notational Data,3.0,Logistic Regression,Linear Models,Raw Score,43.0
+"An evaluation of human and
+computer-based predictions of the 2003 rugby union world cup,","O’Donoghue, P., & Williams, J",2004,https://doi.org/10.1515/ijcss-2016-0003,match outcome prediction,rugby,Male,International,worldwide,Global / Unspecified,1987-2003,185.0,Notational Data,3.0,Neural Network,Neural Networks,Raw Score,39.0
+"An evaluation of human and
+computer-based predictions of the 2003 rugby union world cup,","O’Donoghue, P., & Williams, J",2004,https://doi.org/10.1515/ijcss-2016-0003,match outcome prediction,rugby,Male,International,worldwide,Global / Unspecified,1987-2003,185.0,Notational Data,3.0,Simulation Model,Bayesian/Probabilistic Models,Raw Score,44.5
+Artificial intelligence in sports prediction,"McCabe, A., & Trevathan, J.",2008,10.1109/ITNG.2008.203,match outcome prediction,rugby,Male,National,England,Europe,2002-2008,,Notational Data,20.0,Neural Network,Neural Networks,Accuracy,0.632
+Artificial intelligence in sports prediction,"McCabe, A., & Trevathan, J.",2008,10.1109/ITNG.2008.203,match outcome prediction,australian football,Male,National,Australia,Australia & Oceania,2002-2008,,Notational Data,20.0,Neural Network,Neural Networks,Accuracy,0.651
+Artificial intelligence in sports prediction,"McCabe, A., & Trevathan, J.",2008,10.1109/ITNG.2008.203,match outcome prediction,rugby,Male,National,Australia,Australia & Oceania,2002-2008,,Notational Data,20.0,Neural Network,Neural Networks,Accuracy,0.675
+Artificial intelligence in sports prediction,"McCabe, A., & Trevathan, J.",2008,10.1109/ITNG.2008.203,match outcome prediction,football,Male,National,England,Europe,2002-2008,,Notational Data,20.0,Neural Network,Neural Networks,Accuracy,0.546
+Predictive models of the 2015 rugby world cup: Accuracy and application,"O’Donoghue, P., Ball, D., Eustace, J., McFarlan, B., & Nisotaki, M.",2016,10.1515/ijcss-2016-0003,match outcome prediction,rugby,Male,International,worldwide,Global / Unspecified,1987-2011,280.0,Notational Data,2.0,Linear Regression,Linear Models,Accuracy,0.7444
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Neural Network,Neural Networks,Accuracy,0.5938
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.5677
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.5861
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Decision Tree,Individual Decision Trees,Accuracy,0.5551
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,ZeroR,Rule-based Classification,Accuracy,0.5
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Neural Network,Neural Networks,Precision,0.583
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Naïve Bayes,Bayesian/Probabilistic Models,Precision,0.567
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Support Vector Machine,Kernel-Based Models,Precision,0.586
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Decision Tree,Individual Decision Trees,Precision,0.558
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,ZeroR,Rule-based Classification,Precision,0.5
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Neural Network,Neural Networks,Recall,0.594
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Naïve Bayes,Bayesian/Probabilistic Models,Recall,0.571
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Support Vector Machine,Kernel-Based Models,Recall,0.586
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Decision Tree,Individual Decision Trees,Recall,0.534
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,ZeroR,Rule-based Classification,Recall,0.698
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Neural Network,Neural Networks,F1 Score,0.588
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Naïve Bayes,Bayesian/Probabilistic Models,F1 Score,0.569
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.586
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Decision Tree,Individual Decision Trees,F1 Score,0.545
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,ZeroR,Rule-based Classification,F1 Score,0.581
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Neural Network,Neural Networks,AUC,0.6
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Naïve Bayes,Bayesian/Probabilistic Models,AUC,0.588
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Support Vector Machine,Kernel-Based Models,AUC,0.586
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,Decision Tree,Individual Decision Trees,AUC,0.536
+"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,517.0,Notational Data,12.0,ZeroR,Rule-based Classification,AUC,0.5
+"Combining textual pre-game reports
+and statistical data for predicting success in the national hockey league","Weissbock, J., & Inkpen, D.",2014,https://link.springer.com/chapter/10.1007/978-3-319-06483-3_22,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,708.0,Notational Data,6.0,Neural Network,Neural Networks,Accuracy,0.5857
+"Combining textual pre-game reports
+and statistical data for predicting success in the national hockey league","Weissbock, J., & Inkpen, D.",2014,https://link.springer.com/chapter/10.1007/978-3-319-06483-3_22,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,708.0,Notational Data,6.0,JRIP,Rule-based Classification,Accuracy,0.5732
+"Combining textual pre-game reports
+and statistical data for predicting success in the national hockey league","Weissbock, J., & Inkpen, D.",2014,https://link.springer.com/chapter/10.1007/978-3-319-06483-3_22,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,708.0,Notational Data,6.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.5439
+"Combining textual pre-game reports
+and statistical data for predicting success in the national hockey league","Weissbock, J., & Inkpen, D.",2014,https://link.springer.com/chapter/10.1007/978-3-319-06483-3_22,match outcome prediction,ice hockey,Male,National,North America,North America,2012-2013,708.0,Notational Data,6.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.5878
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.906
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.841
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.9044
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Discriminant Analysis,Linear Models,Accuracy,0.9154
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Discriminant x Adaboost,Ensemble Methods,Accuracy,0.9154
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Discriminant x Bagging,Ensemble Methods,Accuracy,0.9107
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Discriminant x RobustBoost,Ensemble Methods,Accuracy,0.9185
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Decision tree x Adaboost,Individual Decision Trees,Accuracy,0.9044
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Decision tree x Bagging,Ensemble Methods,Accuracy,0.9013
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Decision tree x Boosting,Ensemble Methods,Accuracy,0.9138
+"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,match outcome prediction,ice hockey,Male,National,North America,North America,2007-20017,1230.0,Notational Data,19.0,Decision tree x RobustBoost,Individual Decision Trees,Accuracy,0.9044
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.5921
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Decision Tree,Individual Decision Trees,Accuracy,0.4172
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.4768
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.3969
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.5058
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.5921
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Decision Tree,Individual Decision Trees,Accuracy,0.4577
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.4226
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.4058
+"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,match outcome prediction,football,Male,National,UK,Europe,1995-1997,76.0,Notational Data,30.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.4721
+Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,match outcome prediction,football,Male,National,Netherlands,Europe,1995-2010,,Notational Data,8.0,Classification Via Regression,Linear Models,Accuracy,0.5505
+Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,match outcome prediction,football,Male,National,Netherlands,Europe,1995-2010,,Notational Data,8.0,Multi Class Classifier,Linear Models,Accuracy,0.5498
+Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,match outcome prediction,football,Male,National,Netherlands,Europe,1995-2010,,Notational Data,8.0,RotationForest,Ensemble Methods,Accuracy,0.5457
+Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,match outcome prediction,football,Male,National,Netherlands,Europe,1995-2010,,Notational Data,8.0,LogitBoost,Ensemble Methods,Accuracy,0.5462
+Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,match outcome prediction,football,Male,National,Netherlands,Europe,1995-2010,,Notational Data,8.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.5455
+Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,match outcome prediction,football,Male,National,Netherlands,Europe,1995-2010,,Notational Data,8.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.5438
+Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,match outcome prediction,football,Male,National,Netherlands,Europe,1995-2010,,Notational Data,8.0,"""Home wins"" classifier",Rule-based Classification,Accuracy,0.4866
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,DecisionTable,Rule-based Classification,Accuracy,0.4651
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,Bagging,Ensemble Methods,Accuracy,0.7056
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.6546
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,Ensemble-Selection Classifier,Ensemble Methods,Accuracy,0.5699
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.703
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,Support Vector Machine,Kernel-Based Models,Accuracy,
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,LWL,Distance/Neighbor-Based,Accuracy,
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,LADTree,Ensemble Methods,Accuracy,
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,Voted Perceptron,Neural Networks,Accuracy,
+"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,match outcome prediction,football,Male,National,Europe,Europe,Dec 2010-Apr 2011,2615.0,Notational Data,320.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,
+"Predicting the dutch football competition us-
+ing public data: A machine learning approach","Tax, N., & Joustra, Y.",2015,10.13140/RG.2.1.1383.4729,match outcome prediction,football,Male,National,Netherlands,Europe,2000-2013,2000.0,Notational Data,45.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,
+Tactics analysis in soccer:an advanced approach,"Perl J, Grunz A, Memmert D",2013,https://www.dshs-koeln.de/fileadmin/redaktion/Institute/Kognitions-_und_Sportspielforschung/Publikationen/Paper/Perl_2013_Tactics-analysis-in-soccer.pdf,performance prediction,football,Mixed,International,Europe,Europe,2006-2010,40.0,Tracking Data,,Neural Network,Neural Networks,,
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,334.0,Random Forest,Ensemble Methods,Accuracy,0.85
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,334.0,Random Forest,Ensemble Methods,Precision,0.52
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,334.0,Random Forest,Ensemble Methods,Recall,0.65
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,334.0,Random Forest,Ensemble Methods,F1 Score,0.58
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,16.0,Random Forest,Ensemble Methods,Accuracy,0.82
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,16.0,Random Forest,Ensemble Methods,Precision,0.47
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,16.0,Random Forest,Ensemble Methods,Recall,0.7
+Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,performance prediction,football,Male,National,Germany,Europe,2020-2021,153.0,Tracking Data,16.0,Random Forest,Ensemble Methods,F1 Score,0.57
+"Who can receive the pass? A
+computational model for quantifying availability in soccer","U. Dick, D. Link, and U. Brefeld",2022,http://dx.doi.org/10.1007/s10618-022-00827-2,performance prediction,football,Male,National,Germany,Europe,2017-2018,58.0,Tracking Data,,,,AUC,0.886
+"Wide open spaces: A statistical technique for measuring space creation in professional
+soccer","J. Fernandez, F. Barcelona, and L. Bornn",2018,https://www.lukebornn.com/papers/fernandez_ssac_2018.pdf,performance evaluation,football,Male,National,Spain,Europe,,,Tracking Data,,Feed Forward Neural Network,Neural Networks,,
+Physicsbased modeling of pass probabilities in soccer,"W. Spearman, A. Basye, G. Dick, R. Hotovy, and P. Pop",2017,https://static.hudl.com/craft/downloads/SSAC17-Physics-Based-Modeling-of-Pass-Probabilities-in-Soccer.pdf?mtime=20180305082035,performance prediction,football,Male,National,England,Europe,2015-2016,38.0,Notational Data & Tracking Data,,,,Accuracy,0.805
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Random Forest,Ensemble Methods,Accuracy,0.8246
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Random Forest,Ensemble Methods,Precision,0.8357
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Random Forest,Ensemble Methods,Recall,0.8247
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Random Forest,Ensemble Methods,F1 Score,0.83
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.5627
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Naïve Bayes,Bayesian/Probabilistic Models,Precision,0.824
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Naïve Bayes,Bayesian/Probabilistic Models,Recall,0.5627
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,Naïve Bayes,Bayesian/Probabilistic Models,F1 Score,0.6261
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,AdaBoost,Ensemble Methods,Accuracy,0.8274
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,AdaBoost,Ensemble Methods,Precision,0.797
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,AdaBoost,Ensemble Methods,Recall,0.8273
+"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,performance prediction,football,Male,International,Europe,Europe,2016-2020,3482.0,"Match Stats, Physical, Psychological & Technical Data",11.0,AdaBoost,Ensemble Methods,F1 Score,0.8119
+"The tactics
+of successful attacks in professional
+association football: large-scale
+spatiotemporal analysis of dynamic
+subgroups using position tracking data","Goes FR, Brink MS, Elferink-Gemser MT, Kempe M, Lemmink KAP.M",2021,https://doi.org/10.1080/02640414.2020.1834689,playing style,football,Male,National,Netherland,Europe,4 seasons,118.0,Tracking Data,,K-means,Unsupervised Models,Silhouette Score,0.63
+Team activity recognition in Association Football using a Bag-of-Words-based method,"Montoliu R, Martín-Félez R, Torres-Sospedra J,
+Martínez-Usó A",2015, https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,Spain,Europe,,2.0,Tracking Data,40.0,Neural Network,Neural Networks,Accuracy,0.84
+Team activity recognition in Association Football using a Bag-of-Words-based method,"Montoliu R, Martín-Félez R, Torres-Sospedra J,
+Martínez-Usó A",2015, https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,Spain,Europe,,2.0,Tracking Data,40.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.87
+Team activity recognition in Association Football using a Bag-of-Words-based method,"Montoliu R, Martín-Félez R, Torres-Sospedra J,
+Martínez-Usó A",2015, https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,Spain,Europe,,2.0,Tracking Data,40.0,Random Forest,Ensemble Methods,Accuracy,0.9289
+Team activity recognition in Association Football using a Bag-of-Words-based method,"Montoliu R, Martín-Félez R, Torres-Sospedra J,
+Martínez-Usó A",2015, https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,Spain,Europe,,2.0,Tracking Data,40.0,Multilayer Perceptron,Neural Networks,Accuracy,0.88
+A compound framework for sports results prediction: A football case study,"Byungho Min, Jinhyuck Kim, Chongyoun Choe and 
+Robert Ian",2008,https://doi.org/10.1016/j.knosys.2008.03.016,match outcome prediction,football,Male,International,World,Global / Unspecified,,64.0,Notational Data,4.0,Bayesian Network,Bayesian/Probabilistic Models,RMSE,5.306
+"an Improved Prediction System for Football 
+a Match Result","Igiri, Chinwe Peace, Nwachukwu, Enoch Okechukwu",2014,http://dx.doi.org/10.9790/3021-04124012020,match outcome prediction,football,Male,National,England,Europe,2014-2015,110.0,Notational Data,9.0,Neural Network,Neural Networks,Accuracy,0.85
+"an Improved Prediction System for Football 
+a Match Result","Igiri, Chinwe Peace, Nwachukwu, Enoch Okechukwu",2014,http://dx.doi.org/10.9790/3021-04124012020,match outcome prediction,football,Male,National,England,Europe,2014-2015,110.0,Notational Data,9.0,Linear Regression,Linear Models,Accuracy,0.93
+"An Artificial Neural Network
+based Prediction model for underdog Teams in NBA 
+Matches",Paolo Giuliodori,2017,https://ceur-ws.org/Vol-1971/paper-09.pdf,match outcome prediction,basketball,Male,National,USA,North America,2016-2017,566.0,Notational Data,10.0,Neural Network,Neural Networks,AUC,0.7195
+pi-football: A Bayesian network model for forecasting Association Football match outcomes,"C. Constantinaou, N. E. Fenton and M. Neil",2012,https://doi.org/10.1016/j.knosys.2012.07.008,match outcome prediction,football,Male,National,England,Europe,1993-2010,6244.0,Notational Data,10.0,Bayesian Network,Bayesian/Probabilistic Models,,
+"football predictions based on a fuzzy model with genetic and 
+neural tuning","P. Rotshtein, M. Posner, and A. B. Rakityanskaya",2015,http://dx.doi.org/10.1007/s10559-005-0098-4,match outcome prediction,football,Male,National,Finland,Europe,1994-2001,1406.0,Notational Data,12.0,,,Accuracy,0.946
+"A state-space model 
+for national football league scores","Glickman, M.E. and Stern, H.S",2017,https://math.bu.edu/people/mg/papers/nfl.pdf,match outcome prediction,american football,Male,National,USA,North America,1988-1993,110.0,,,Markov Chain Monte Carlo,Bayesian/Probabilistic Models,Accuracy,0.582
+"A state-space model 
+for national football league scores","Glickman, M.E. and Stern, H.S",2017,https://math.bu.edu/people/mg/papers/nfl.pdf,match outcome prediction,american football,Male,National,USA,North America,1988-1993,110.0,,,Markov Chain Monte Carlo,Bayesian/Probabilistic Models,MAE,10.5
+"A state-space model 
+for national football league scores","Glickman, M.E. and Stern, H.S",2017,https://math.bu.edu/people/mg/papers/nfl.pdf,match outcome prediction,american football,Male,National,USA,North America,1988-1993,110.0,,,Markov Chain Monte Carlo,Bayesian/Probabilistic Models,MSE,165.0
+"Rating systems vs
+ machine learning on the context of sports","G. Kyriakides, K. Talattinis, and S. George",2014,http://dx.doi.org/10.1145/2645791.2645846,match outcome prediction,football,Male,National,England,Europe,2008-2013,,Event Data,,Neural Network,Neural Networks,Accuracy,0.5684
+"Rating systems vs
+ machine learning on the context of sports","G. Kyriakides, K. Talattinis, and S. George",2014,http://dx.doi.org/10.1145/2645791.2645846,match outcome prediction,football,Male,National,England,Europe,2008-2013,,Event Data,,Decision Tree,Individual Decision Trees,Accuracy,0.5263
+"Rating systems vs
+ machine learning on the context of sports","G. Kyriakides, K. Talattinis, and S. George",2014,http://dx.doi.org/10.1145/2645791.2645846,match outcome prediction,football,Male,National,England,Europe,2008-2013,,Event Data,,Random Forest,Ensemble Methods,Accuracy,0.5
+"Rating systems vs
+ machine learning on the context of sports","G. Kyriakides, K. Talattinis, and S. George",2014,http://dx.doi.org/10.1145/2645791.2645846,match outcome prediction,football,Male,National,England,Europe,2008-2013,,Event Data,,,,Accuracy,0.5697
+"Rating systems vs
+ machine learning on the context of sports","G. Kyriakides, K. Talattinis, and S. George",2014,http://dx.doi.org/10.1145/2645791.2645846,match outcome prediction,football,Male,National,England,Europe,2008-2013,,Event Data,,,,Accuracy,0.4583
+"Rating systems vs
+ machine learning on the context of sports","G. Kyriakides, K. Talattinis, and S. George",2014,http://dx.doi.org/10.1145/2645791.2645846,match outcome prediction,football,Male,National,England,Europe,2008-2013,,Event Data,,,,Accuracy,0.4878
+"Predicting all star player in the national basketball association
+ using random forest"," G. Soliman, A. El-Nabawy, A. Misbah, and S. Eldawlatly",2017,http://dx.doi.org/10.1109/IntelliSys.2017.8324371,player evaluation,basketball,Male,National,USA,North America,1937-2011,,Notational Data,12.0,Random Forest,Ensemble Methods,Accuracy,0.9489
+"Predicting all star player in the national basketball association
+ using random forest"," G. Soliman, A. El-Nabawy, A. Misbah, and S. Eldawlatly",2017,http://dx.doi.org/10.1109/IntelliSys.2017.8324371,player evaluation,basketball,Male,National,USA,North America,1937-2011,,Notational Data,12.0,Random Forest,Ensemble Methods,AUC,0.8799
+"The application of data mining algorithm based
+ on association rules in the analysis of football tactics", W. Puchun,2016,http://dx.doi.org/10.1109/ICRIS.2016.87,playing style,football,Male,International,Europe,Europe,,,Event Data,,,,,
+Analysis of basketball games using neural network,"Ivankovi_x0013_c, Z., Rackovi_x0013_c, M., Markoviski, B",2010,http://dx.doi.org/10.1109/CINTI.2010.5672237,match outcome prediction,basketball,Male,National,Serbia,Europe,2005-2010,890.0,Notational Data,12.0,Neural Network,Neural Networks,Accuracy,0.8096
+Machine learning approaches to predict basketball game outcome,"Kaur, H. and Jain, S",2017, https://doi.org/10.1109/ICACCAF.2017.8344688,match outcome prediction,basketball,Male,National,USA,North America,2015-2016,800.0,Notational Data,33.0,,,Accuracy,0.8826
+Machine learning approaches to predict basketball game outcome,"Kaur, H. and Jain, S",2017, https://doi.org/10.1109/ICACCAF.2017.8344688,match outcome prediction,basketball,Male,National,USA,North America,2015-2016,800.0,Notational Data,33.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.8621
+Predicting basketball results using a cascading algorithm,"Caliwag, J.A., Castillo, R.E., Aragon, M.C.R. and Colantes, E.M.S",2018,https://doi.org/10.1145/3209914.3209921,match outcome prediction,basketball,Male,National,USA,North America,2015-2016,,Notational Data,,,,Accuracy,0.7
+"Quantification of pass plays based on
+geometric features of formations in team sports",T. Mimura and Y. Nakada,2019,http://dx.doi.org/10.1145/3368926.3369673,performance prediction,football,Male,National,Japan,Asia,,10.0,Tracking Data,24.0,Logistic Regression,Linear Models,AUC,0.6709
+"Quantification of pass plays based on
+geometric features of formations in team sports",T. Mimura and Y. Nakada,2019,http://dx.doi.org/10.1145/3368926.3369673,performance prediction,football,Male,National,Japan,Asia,,10.0,Tracking Data,,,,AUC,0.7222
+"Quantification of pass plays based on
+geometric features of formations in team sports",T. Mimura and Y. Nakada,2019,http://dx.doi.org/10.1145/3368926.3369673,performance prediction,football,Male,National,Japan,Asia,,10.0,Tracking Data,24.0,Logistic Regression,Linear Models,AUC,0.5504
+"Quantification of pass plays based on
+geometric features of formations in team sports",T. Mimura and Y. Nakada,2019,http://dx.doi.org/10.1145/3368926.3369673,performance prediction,football,Male,National,Japan,Asia,,10.0,Tracking Data,,,,AUC,0.6663
+Predicting NBA games using neural network,"Loeffelholz, B., Bednar, E., & Bauer, K. W",2009,http://dx.doi.org/10.2202/1559-0410.1156,match outcome prediction,basketball,Male,National,USA,North America,2007-2008,620.0,Notational Data,22.0,,,Accuracy,0.7433
+Predicting NBA games using neural network,"Loeffelholz, B., Bednar, E., & Bauer, K. W",2009,http://dx.doi.org/10.2202/1559-0410.1156,match outcome prediction,basketball,Male,National,USA,North America,2007-2008,620.0,Notational Data,22.0,,,Accuracy,0.7267
+Predicting NBA games using neural network,"Loeffelholz, B., Bednar, E., & Bauer, K. W",2009,http://dx.doi.org/10.2202/1559-0410.1156,match outcome prediction,basketball,Male,National,USA,North America,2007-2008,620.0,Notational Data,22.0,,,Accuracy,0.7334
+Predicting NBA games using neural network,"Loeffelholz, B., Bednar, E., & Bauer, K. W",2009,http://dx.doi.org/10.2202/1559-0410.1156,match outcome prediction,basketball,Male,National,USA,North America,2007-2008,620.0,Notational Data,22.0,General Regression Neural Network,Neural Networks,Accuracy,0.7334
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Random Forest,Ensemble Methods,Accuracy,0.7562
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Random Forest,Ensemble Methods,RMSE,1.9986
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Random Forest,Ensemble Methods,MAE,1.5909
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,,,Accuracy,0.7095
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,,,RMSE,2.2441
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,,,MAE,1.7964
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Support Vector Machine,Kernel-Based Models,Accuracy,0.6612
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Support Vector Machine,Kernel-Based Models,RMSE,2.2899
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Support Vector Machine,Kernel-Based Models,MAE,1.861
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Linear Regression,Linear Models,Accuracy,0.636
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Linear Regression,Linear Models,RMSE,2.274
+Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,match outcome prediction,football,Male,International,Europe,Europe,2013-2018,8082.0,Notational Data,,Linear Regression,Linear Models,MAE,1.8631
+Exploiting sports-betting market using machine learning,"Hubácˇek, O., Šourek, G., & Železný, F",2019,https://www.sciencedirect.com/science/article/abs/pii/S016920701930007X,match outcome prediction,basketball,Male,National,USA,North America,2000-2014,9093.0,Notational Data,,Logistic Regression,Linear Models,Accuracy,0.6748
+Prediction of Euroleague games based on supervised classification algorithm k-nearest neighbours,"Horvat, T., Job, J., & Medved, V.",2018,https://www.scitepress.org/Papers/2018/68935/68935.pdf,match outcome prediction,basketball,Male,International,Europe,Europe,2012-2017,,Notational Data,15.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.8396
+"Importance of the training dataset length in basketball game outcome prediction by using naïve classification
+machine learning methods","Horvat, T., & Job, J.",2019,https://www.proquest.com/openview/33a07d549416cde663a9e6819f600c21/1?cbl=1606352&pq-origsite=gscholar,match outcome prediction,basketball,Male,National,USA,North America,2009-2018,11578.0,Notational Data,2.0,,,Accuracy,0.6527
+Predicting the outcome of NFL games using machine learning,"Hamadani, B",2006,https://cs229.stanford.edu/proj2006/BabakHamadani-PredictingNFLGames.pdf,match outcome prediction,american football,Male,National,USA,North America,2003-2005,,Notational Data,,Logistic Regression,Linear Models,Accuracy,0.6708
+Predicting the outcome of NFL games using machine learning,"Hamadani, B",2006,https://cs229.stanford.edu/proj2006/BabakHamadani-PredictingNFLGames.pdf,match outcome prediction,american football,Male,National,USA,North America,2003-2005,,Notational Data,,Support Vector Machine,Kernel-Based Models,Accuracy,0.6681
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.615
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,Logistic Regression,Linear Models,Accuracy,0.647
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,,,Accuracy,0.679
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,Random Forest,Ensemble Methods,Accuracy,0.706
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,,,Accuracy,0.744
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,Naïve Bayes,Bayesian/Probabilistic Models,AUC,0.616
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,Logistic Regression,Linear Models,AUC,0.631
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,,,AUC,0.66
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,Random Forest,Ensemble Methods,AUC,0.667
+"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,match outcome prediction,basketball,Male,National,USA,North America,2007-2015,10271.0,Notational Data,28.0,,,AUC,0.623
+NFL & NCAA Football Prediction using Artificial Neural networ,"Blaikie, A. D., David, J. A., Abud, G. J., & Pasteur, R. D",2011,https://www.semanticscholar.org/paper/NFL-%26-NCAA-Football-Prediction-using-Artificial-Blaikie-Abud/5207ead80e566abd29bf2c171143fa6473c28b6a,match outcome prediction,american football,Male,National,USA,North America,2003-2010,,Notational Data,46.0,Neural Network,Neural Networks,MAE,11.0
+NFL & NCAA Football Prediction using Artificial Neural networ,"Blaikie, A. D., David, J. A., Abud, G. J., & Pasteur, R. D",2011,https://www.semanticscholar.org/paper/NFL-%26-NCAA-Football-Prediction-using-Artificial-Blaikie-Abud/5207ead80e566abd29bf2c171143fa6473c28b6a,match outcome prediction,american football,Male,National,USA,North America,2003-2010,,Notational Data,40.0,Neural Network,Neural Networks,MAE,13.0
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Linear Regression,Linear Models,Accuracy,0.6426
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Linear Regression,Linear Models,Precision,0.6536
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Linear Regression,Linear Models,Recall,0.7852
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Linear Regression,Linear Models,F1 Score,0.7134
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,Accuracy,0.6553
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,Precision,0.679
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,Recall,0.7383
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,F1 Score,0.7074
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Random Forest,Ensemble Methods,Accuracy,0.6136
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Random Forest,Ensemble Methods,Precision,0.5571
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Random Forest,Ensemble Methods,Recall,0.354
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,Random Forest,Ensemble Methods,F1 Score,0.4333
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,Accuracy,0.6196
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,Precision,0.6404
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,Recall,0.8022
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,,,F1 Score,0.7122
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,AdaBoost,Ensemble Methods,Accuracy,0.6023
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,AdaBoost,Ensemble Methods,Precision,0.541
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,AdaBoost,Ensemble Methods,Recall,0.3
+Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,match outcome prediction,basketball,Male,National,USA,North America,2013-2014,1052.0,Notational Data,218.0,AdaBoost,Ensemble Methods,F1 Score,0.386
+"Discovering meth-
+ods of scoring in soccer using tracking data","Fernando T, Wei X, Fookes C, ",2015,https://eprints.qut.edu.au/118093/13/118093.pdf,performance prediction,football,Male,,,Global / Unspecified,,380.0,Tracking Data,,,,,
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Random Forest,Ensemble Methods,Precision,0.785
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Decision Tree,Individual Decision Trees,Precision,0.698
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Logistic Regression,Linear Models,Precision,0.715
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,AdaBoost,Ensemble Methods,Precision,0.624
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Random Forest,Ensemble Methods,Recall,0.822
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Decision Tree,Individual Decision Trees,Recall,0.678
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Logistic Regression,Linear Models,Recall,0.65
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,AdaBoost,Ensemble Methods,Recall,0.773
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Random Forest,Ensemble Methods,F1 Score,0.8
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Decision Tree,Individual Decision Trees,F1 Score,0.676
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Logistic Regression,Linear Models,F1 Score,0.673
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,AdaBoost,Ensemble Methods,F1 Score,0.688
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Random Forest,Ensemble Methods,AUC,0.814
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Decision Tree,Individual Decision Trees,AUC,0.677
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,Logistic Regression,Linear Models,AUC,0.697
+"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,match outcome prediction,football,Male,International,Europe,Europe,,5017.0,Notational Data & Tracking Data,,AdaBoost,Ensemble Methods,AUC,0.67
+"Quality vs
+quantity: Improved shot prediction in soccer using stra-
+tegic features from spatiotemporal data"," Lucey P, Bialkowski A, Monfort M",2014,https://www.sloansportsconference.com/research-papers/quality-vs-quantity-improved-shot-prediction-in-soccer-using-strategic-features-from-spatiotemporal-data,performance prediction,football,Male,,,Global / Unspecified,,353.0,Tracking Data,,Logistic Regression,Linear Models,MAE,0.1439
+"Large-scale analysis
+of soccer matches using spatiotemporal tracking data","Bialkowski A, Lucey P, Carr P,",2014,https://doi.org/10.1109/ICDM.2014.133,performance prediction,football,Male,,,Global / Unspecified,,375.0,Tracking Data,,,,Accuracy,0.7533
+"Not every pass
+can be an assist: A data-driven model to measure pass
+effectiveness in professional soccer matches","Goes FR, Kempe M, Meerhoff LA,",2018,http://dx.doi.org/10.1089/big.2018.0067,performance evaluation,football,Male,National,Netherlands,Europe,2017-2018,18.0,Tracking Data,,Linear Regression,Linear Models,,
+"Artificial neural net-
+works and player recruitment in professional soccer","Barron D, Ball G, Robins M",2018,https://doi.org/10.1371/journal.pone.0205818,player evaluation,football,Male,National,England,Europe,2008-2010,966.0,Notational Data,,Neural Network,Neural Networks,Accuracy,0.788
+"Not all passes are created
+equal: Objectively measuring the risk and reward of
+passes in soccer from tracking data","Power P, Ruiz H, Wei X,",2017,https://doi.org/10.1145/3097983.3098051,performance evaluation,football,Male,National,England,Europe,2014-2016,726.0,Notational Data & Tracking Data,,Logistic Regression,Linear Models,Log Loss,0.2125
+"Not all passes are created
+equal: Objectively measuring the risk and reward of
+passes in soccer from tracking data","Power P, Ruiz H, Wei X,",2017,https://doi.org/10.1145/3097983.3098051,performance evaluation,football,Male,National,England,Europe,2014-2016,726.0,Notational Data & Tracking Data,,Logistic Regression,Linear Models,RMSE,0.2438
+"Quantifying the relation
+between performance and success in soccer",Pappalardo L and Cintia P. ,2017,http://dx.doi.org/10.1142/S021952591750014X,match outcome prediction,football,Male,International,Europe,Europe,2013-2016,6000.0,Notational Data,10.0,Logistic Regression,Linear Models,Accuracy,0.6
+"Quantifying the relation
+between performance and success in soccer",Pappalardo L and Cintia P. ,2017,http://dx.doi.org/10.1142/S021952591750014X,match outcome prediction,football,Male,International,Europe,Europe,2013-2016,6000.0,Notational Data,10.0,Logistic Regression,Linear Models,F1 Score,0.52
+"Quantifying the relation
+between performance and success in soccer",Pappalardo L and Cintia P. ,2017,http://dx.doi.org/10.1142/S021952591750014X,match outcome prediction,football,Male,International,Europe,Europe,2013-2016,6000.0,Notational Data,10.0,Random Forest,Ensemble Methods,Accuracy,0.55
+"Quantifying the relation
+between performance and success in soccer",Pappalardo L and Cintia P. ,2017,http://dx.doi.org/10.1142/S021952591750014X,match outcome prediction,football,Male,International,Europe,Europe,2013-2016,6000.0,Notational Data,10.0,Random Forest,Ensemble Methods,F1 Score,0.47
+"Current
+approaches to tactical performance analyses in soccer
+using position data","Memmert D, Lemmink KA and Sampaio J",2017,https://doi.org/10.1007/s40279-016-0562-5,playing style,football,Male,International,Europe,Europe,2008-2009,1.0,Tracking Data,,,,,
+"Data-driven ghosting using
+deep imitation learning"," Le HM, Carr P, Yue Y,",2017,https://la.disneyresearch.com/wp-content/uploads/Data-Driven-Ghosting-using-Deep-Imitation-Learning-Paper1.pdf,performance prediction,football,Male,,,Global / Unspecified,,100.0,Notational Data & Tracking Data,,,,,
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Accuracy,0.669
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Precision,0.462
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Recall,0.417
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,F1 Score,0.455
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.66
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Precision,0.395
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Recall,0.327
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.358
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Accuracy,0.58
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Precision,0.359
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Recall,0.453
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,F1 Score,0.348
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Accuracy,0.829
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Precision,0.666
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Recall,0.752
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,F1 Score,0.638
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.858
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Precision,0.713
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Recall,0.734
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.711
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Accuracy,0.756
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Precision,0.6
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Recall,0.781
+"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,F1 Score,0.646
+"Beyond completion rate:
+Evaluating the passing ability of footballers",Szczepan´ ski L and McHale I.,2016,http://dx.doi.org/10.1111/rssa.12115,performance evaluation,football,Male,National,England,Europe,2006-2008,760.0,Notational Data,,,,Pearson Correlation,0.92
+"Spatio-temporal
+convolution kernels","Knauf K, Memmert D  Brefeld U",2016,http://dx.doi.org/10.1007/s10994-015-5520-1,playing style,football,Male,National,Germany,Europe,2011-2012,10.0,Tracking Data,,,,Silhouette Score,0.21
+"Recognition of repetitive movement
+patterns—The case of football analysis",Feuerhake U,2016,https://doi.org/10.3390/ijgi5110208,performance prediction,football,Male,,,Global / Unspecified,,20.0,Tracking Data,,,,,
+"Using machine learning
+to draw inferences from pass location data in soccer","Brooks J, Kerr M and Guttag J.",2016,https://doi.org/10.1002/sam.11318,performance evaluation,football,Male,National,Spain,Europe,2012-2013,,Notational Data,18.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.873
+"Using machine learning
+to draw inferences from pass location data in soccer","Brooks J, Kerr M and Guttag J.",2016,https://doi.org/10.1002/sam.11318,performance evaluation,football,Male,National,Spain,Europe,2012-2013,,Notational Data,18.0,K-Nearest Neighbors,Distance/Neighbor-Based,,0.0384
+"Discovering team
+structures in soccer from spatiotemporal data","Bialkowski A, Lucey P, Carr P,",2016,http://dx.doi.org/10.1109/TKDE.2016.2581158,performance evaluation,football,Male,,,Global / Unspecified,,380.0,Notational Data & Tracking Data,,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.67
+"Measuring scoring
+efficiency through goal expectancy estimation","Ruiz H, Lisboa P, Neilson P,",2015,https://www.esann.org/sites/default/files/proceedings/legacy/es2015-126.pdf,performance evaluation,football,Male,National,England,Europe,2013-2014,10318.0,Notational Data & Tracking Data,6.0,,,,
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Accuracy,0.829
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Precision,0.666
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Recall,0.752
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,F1 Score,0.368
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.858
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Precision,0.713
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,Recall,0.734
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,Support Vector Machine,Kernel-Based Models,F1 Score,0.711
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Accuracy,0.756
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Precision,0.6
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,Recall,0.781
+"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,performance evaluation,football,Male,National,England,Europe,2007-2008,2932.0,Notational Data & Tracking Data,49.0,,,F1 Score,0.646
+"Learning to predict soccer
+results from relational data with gradient boosted trees","Hubácek, O., Šourek, G., & Železn`y, F.",2019,10.1007/s10994-018-5704-6,match outcome prediction,football,Male,International,World,Global / Unspecified,,200000.0,Notational Data,66.0,,,,0.2055
+"Learning to predict soccer
+results from relational data with gradient boosted trees","Hubácek, O., Šourek, G., & Železn`y, F.",2019,10.1007/s10994-018-5704-6,match outcome prediction,football,Male,International,World,Global / Unspecified,,200000.0,Notational Data,66.0,,,,0.216
+"Dolores: a model that predicts football match
+outcomes from all over the world","Constantinou, A. C. ",2019,10.1007/s10994-018-5703-7,match outcome prediction,football,Male,International,World,Global / Unspecified,,216949.0,Notational Data,,,,,0.2082
+"Incorporating domain knowledge
+in machine learning for soccer outcome prediction","Berrar, D., Lopes, P., & Dubitzky, W",2019,10.1007/s10994-018-5747-8,match outcome prediction,football,Male,International,World,Global / Unspecified,,216743.0,Notational Data,72.0,K-Nearest Neighbors,Distance/Neighbor-Based,,2088.0
+"Incorporating domain knowledge
+in machine learning for soccer outcome prediction","Berrar, D., Lopes, P., & Dubitzky, W",2019,10.1007/s10994-018-5747-8,match outcome prediction,football,Male,International,World,Global / Unspecified,,216743.0,Notational Data,72.0,,,,0.2113
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,,,Accuracy,0.75
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,,,,0.6866
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,,,,0.8273
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.7951
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Support Vector Machine,Kernel-Based Models,,0.7836
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Support Vector Machine,Kernel-Based Models,,0.8091
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Decision Tree,Individual Decision Trees,Accuracy,0.8648
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Decision Tree,Individual Decision Trees,,0.8433
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Decision Tree,Individual Decision Trees,,0.8909
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,,,Accuracy,0.7143
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.7429
+"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,match outcome prediction,american football,Male,National,USA,North America,2002-2009,244.0,Notational Data,34.0,Decision Tree,Individual Decision Trees,Accuracy,0.8286
+"Predict the neural network mathematical model of basketball team scores
+based on improved BP algorithm.",Li C.,2013,https://www.tsijournals.com/articles/predict-the-neural-network-mathematical-model-of-basketball-team-scores-based-on-improved-bp-algorithm.pdf,match outcome prediction,basketball,Male,International,World,Global / Unspecified,2004-2012,,Notational Data,10.0,,,,
+"Evaluation model of young basketball players’ physical quality
+and basic technique based on RBF neural network",Lu G,2013,https://www.tsijournals.com/articles/evaluation-model-of-young-basketball-players-physical-quality-and-basic-technique-based-on-rbf-neural-network.pdf,player evaluation,basketball,Male,,,Global / Unspecified,,,,10.0,,,,
+"The participating team’s technical analysis of women’s basketball in
+the 30th Olympic Games based on neural network",Wu L.,2013,https://doi.org/10.12775/JEHS.2021.11.07.005,performance evaluation,basketball,Female,International,World,Global / Unspecified,,,Notational Data,14.0,,,,
+"Prediction based on basketball competition video athlete
+behaviors and on-line RBF neural network application",Zhang Q.,2014,https://www.scholarscentral.com/pdfs/76984/prediction-based-on-basketball-competition-video-athlete-behaviors-and-online-rbf-neural-network-application.pdf,performance evaluation,basketball,,,,Global / Unspecified,,20.0,Tracking Data,,,,Accuracy,0.85
+"Detecting tactical patterns in basketball:
+comparison of merge self-organising maps and dynamic controlled neural
+networks","Kempe M, Grunz A, Memmert D",2015,https://doi.org/10.1080/17461391.2014.933882,performance prediction,basketball,Male,National,Austria,Europe,,45.0,Tracking Data,,,,Accuracy,0.8
+"Role revolution: towards a new meaning
+of positions in basketball.","Bianchi F, Facchinetti T, Zuccolotto P.",2017,https://www.researchgate.net/publication/321667468_Role_revolution_Towards_a_new_meaning_of_positions_in_basketball,player evaluation,basketball,Male,National,USA,North America,2015-2016,615.0,Notational Data,7.0,,,,
+"Analysis of tactical defensive behavior in team handball
+by means of artificial neural networks","Tilp M, Schrapf N",2015,http://dx.doi.org/10.1016/j.ifacol.2015.05.169,playing style,handball,Male,International,Europe,Europe,,728.0,,,Neural Network,Neural Networks,,
+"Evaluation of tactical training
+in team handball by means of artificial neural networks","Hassan A, Schrapf N, Ramadan W",2017,https://doi.org/10.1080/02640414.2016.1183804,playing style,handball,Male,International,World,Global / Unspecified,,,Tracking Data,,Neural Network,Neural Networks,Accuracy,0.58
+"The prediction of action positions in team
+handball by non-linear hybrid neural network","Hassan A, Schrapf N, Tilp M",2017,https://doi.org/10.1080/24748668.2017.1336688,performance prediction,handball,Male,International,World,Global / Unspecified,,723.0,Tracking Data,22.0,Neural Network,Neural Networks,,1.2
+"Tactical interaction of offensive and defensive
+teams in team handball analysed by artificial neural network","Schrapf N, Alsaied S, Tilp M",2017,http://dx.doi.org/10.1080/13873954.2017.1336733,playing style,handball,Male,International,World,Global / Unspecified,,723.0,Tracking Data,,Neural Network,Neural Networks,,
+"Intelligent prediction of soccer
+technical skill on youth soccer player’s relative performance using
+multivariate analysis and artificial neural network techniques","Abdullah MR, Maliki ABHM, Musa RM",2016,http://dx.doi.org/10.18517/ijaseit.6.5.975,performance evaluation,football,Male,,,Global / Unspecified,,184.0,,19.0,Neural Network,Neural Networks,,0.922
+"Intelligent prediction of soccer
+technical skill on youth soccer player’s relative performance using
+multivariate analysis and artificial neural network techniques","Abdullah MR, Maliki ABHM, Musa RM",2016,http://dx.doi.org/10.18517/ijaseit.6.5.975,performance evaluation,football,Male,,,Global / Unspecified,,184.0,,19.0,Neural Network,Neural Networks,RMSE,0.19
+"Development and application of
+computer-based prediction methods","Reed, D., & O’Donoghue, P",2005,https://doi.org/10.1080/24748668.2005.11868334,match outcome prediction,football,Male,National,England,Europe,2002-2005,380.0,,7.0,Neural Network,Neural Networks,Accuracy,0.579
+"Development and application of
+computer-based prediction methods","Reed, D., & O’Donoghue, P",2005,https://doi.org/10.1080/24748668.2005.11868334,match outcome prediction,rugby,Male,National,England,Europe,2002-2005,132.0,,7.0,Neural Network,Neural Networks,Accuracy,0.461
+"A neural network method for prediction
+of 2006 world cup football game","Huang, K.-Y., & Chang",2010,10.1109/IJCNN.2010.5596458,match outcome prediction,football,Male,International,World,Global / Unspecified,,64.0,Notational Data,8.0,,,Accuracy,0.769
+Predicting football match results with logistic regression,"Prasetio, D.",2016,10.1109/ICAICTA.2016.7803111,match outcome prediction,football,Male,National,England,Europe,2010-2016,,Notational Data,13.0,Logistic Regression,Linear Models,Accuracy,0.695
+"Football match prediction using
+players attributes","Danisik, N., Lacko, P., & Farkas, M.",2018,https://doi.org/10.1109/DISA.2018.8490613,match outcome prediction,football,Male,International,Europe,Europe,2010-2016,,Notational Data,,,,Accuracy,0.52479
+"Football match prediction using
+players attributes","Danisik, N., Lacko, P., & Farkas, M.",2018,https://doi.org/10.1109/DISA.2018.8490613,match outcome prediction,football,Male,International,Europe,Europe,2010-2016,,Notational Data,,,,Accuracy,0.70213
+Neural network quarterbacking,"Purucker, M. C.",1996,https://doi.org/10.1109/45.535226,match outcome prediction,american football,Male,National,USA,North America,,,Notational Data,7.0,,,Accuracy,0.786
+Neural network quarterbacking,"Purucker, M. C.",1996,https://doi.org/10.1109/45.535226,match outcome prediction,american football,Male,National,USA,North America,,,Notational Data,7.0,,,Accuracy,0.571
+Nfl prediction using committees of artificial neural networks.,"David, J. A., Pasteur, R. D., Ahmad, M. S., & Janning, M. C. ",2011,http://dx.doi.org/10.2202/1559-0410.1327,match outcome prediction,american football,Male,National,USA,North America,2007-2010,,Notational Data,11.0,Neural Network,Neural Networks,Accuracy,0.66
+"The application of self-organising
+maps to performance analysis data in rugby union","Croft H, Lamb P, Middlemas S",2015,https://doi.org/10.1080/24748668.2015.11868849,playing style,rugby,Male,National,New Zealand,Australia & Oceania,,76.0,Notational Data,111.0,,,,
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Bayesian Network,Bayesian/Probabilistic Models,Accuracy,0.9
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Bayesian Network,Bayesian/Probabilistic Models,,0.9178
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Bayesian Network,Bayesian/Probabilistic Models,,0.6538
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Bayesian Network,Bayesian/Probabilistic Models,Precision,0.9746
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Naïve Bayes,Bayesian/Probabilistic Models,Accuracy,0.8809
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Naïve Bayes,Bayesian/Probabilistic Models,,0.881
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Naïve Bayes,Bayesian/Probabilistic Models,,0.647
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,Naïve Bayes,Bayesian/Probabilistic Models,Precision,0.859
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,,,Accuracy,0.9007
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,,,,0.9156
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,,,,0.6667
+"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,player evaluation,football,Male,National,Spain,Europe,,403.0,Psychological Data,10.0,,,Precision,0.9775
+Individual ball possession in soccer,"Link D, Hoernig M",2017,https://doi.org/10.1371/journal.pone.0179953,performance evaluation,football,Male,National,Germany,Europe,2012-2013,60.0,Tracking Data,,Bayesian Network,Bayesian/Probabilistic Models,,0.77
+Individual ball possession in soccer,"Link D, Hoernig M",2017,https://doi.org/10.1371/journal.pone.0179953,performance evaluation,football,Male,National,Germany,Europe,2012-2013,60.0,Tracking Data,,Bayesian Network,Bayesian/Probabilistic Models,Recall,0.9
+Individual ball possession in soccer,"Link D, Hoernig M",2017,https://doi.org/10.1371/journal.pone.0179953,performance evaluation,football,Male,National,Germany,Europe,2012-2013,60.0,Tracking Data,,Bayesian Network,Bayesian/Probabilistic Models,Precision,0.68
+Individual ball possession in soccer,"Link D, Hoernig M",2017,https://doi.org/10.1371/journal.pone.0179953,performance evaluation,football,Male,National,Germany,Europe,2012-2013,60.0,Tracking Data,,Bayesian Network,Bayesian/Probabilistic Models,,0.82
+"Using meta-regression data mining
+to improve predictions of performance based on heart rate dynamics for
+Australian footbal","Jelinek HF, Kelarev A, Robinson DJ",2014,http://dx.doi.org/10.1016/j.asoc.2013.08.010,performance prediction,australian football,Male,National,australia,Australia & Oceania,,40.0,Tracking Data,12.0,,,,0.86
+"Explaining match outcome in elite
+Australian Rules football using team performance indicators","Robertson S, Back N, Bartlett JD",2016,https://doi.org/10.1080/02640414.2015.1066026,match outcome prediction,australian football,Male,National,australia,Australia & Oceania,2013-2014,396.0,Notational Data,15.0,Logistic Regression,Linear Models,Accuracy,0.81
+"Explaining match outcome in elite
+Australian Rules football using team performance indicators","Robertson S, Back N, Bartlett JD",2016,https://doi.org/10.1080/02640414.2015.1066026,match outcome prediction,australian football,Male,National,australia,Australia & Oceania,2013-2014,396.0,Notational Data,15.0,Decision Tree,Individual Decision Trees,Accuracy,0.815
+"Classification of playing position
+in elite junior Australian football using technical skill indicators","Woods CT, Veale J, Fransen J, ",2018,http://dx.doi.org/10.1080/02640414.2017.1282621,player evaluation,australian football,Male,National,australia,Australia & Oceania,,244.0,Notational Data,12.0,,,Accuracy,0.72
+"Classification of playing position
+in elite junior Australian football using technical skill indicators","Woods CT, Veale J, Fransen J, ",2018,http://dx.doi.org/10.1080/02640414.2017.1282621,player evaluation,australian football,Male,National,australia,Australia & Oceania,,244.0,Notational Data,12.0,,,Accuracy,0.46
+"Team performance indicators explain
+outcome during women’s basketball matches at the Olympic Games","Leicht AS, Gomez MA, Woods CT.",2017,http://dx.doi.org/10.3390/sports5040096,match outcome prediction,football,Female,International,World,Global / Unspecified,2004-2016,156.0,Notational Data,12.0,Logistic Regression,Linear Models,Accuracy,0.856
+"Team performance indicators explain
+outcome during women’s basketball matches at the Olympic Games","Leicht AS, Gomez MA, Woods CT.",2017,http://dx.doi.org/10.3390/sports5040096,match outcome prediction,football,Female,International,World,Global / Unspecified,2004-2016,156.0,Notational Data,12.0,,,Accuracy,0.862
+"What is the difference between a winning and a losing team:
+insights from Euroleague basketball",Cene E,2018,https://doi.org/10.1080/24748668.2018.1446234,match outcome prediction,basketball,Male,International,Europe,Europe,2016-2017,259.0,Notational Data,23.0,,,Accuracy,0.8
+"Team activity
+recognition in Association Football using a Bag-of-Words-based method","Montoliu R, Martin-Felez R, Torres-Sospedra J",2015,https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,spain,Europe,,,Tracking Data,,,,Accuracy,0.84
+"Team activity
+recognition in Association Football using a Bag-of-Words-based method","Montoliu R, Martin-Felez R, Torres-Sospedra J",2015,https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,spain,Europe,,,Tracking Data,,Support Vector Machine,Kernel-Based Models,Accuracy,0.87
+"Team activity
+recognition in Association Football using a Bag-of-Words-based method","Montoliu R, Martin-Felez R, Torres-Sospedra J",2015,https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,spain,Europe,,,Tracking Data,,,,Accuracy,0.9289
+"Team activity
+recognition in Association Football using a Bag-of-Words-based method","Montoliu R, Martin-Felez R, Torres-Sospedra J",2015,https://doi.org/10.1016/j.humov.2015.03.007,performance prediction,football,Male,National,spain,Europe,,,Tracking Data,,,,Accuracy,0.88
+"Discovering the drivers of
+football match outcomes with data mining","Carpita M, Sandri M, Simonetto A",2016,http://dx.doi.org/10.1080/16843703.2015.11673436,match outcome prediction,football,Male,National,Italia,Europe,2008-2012,1520.0,Notational Data,17.0,Logistic Regression,Linear Models,Accuracy,0.64
+"Discovering the drivers of
+football match outcomes with data mining","Carpita M, Sandri M, Simonetto A",2016,http://dx.doi.org/10.1080/16843703.2015.11673436,match outcome prediction,football,Male,National,Italia,Europe,2008-2012,1520.0,Notational Data,17.0,Logistic Regression,Linear Models,,0.43
+Empirical prediction of turnovers in NFL Football. Sports.,Bock JR,2017,http://dx.doi.org/10.3390/sports5010001,performance prediction,american football,Male,National,USA,North America,2009-2015,291675.0,Notational Data,,,,,0.65
+"A knowledge discovery framework for the
+assessment of tactical behaviour in soccer based on spatiotemporal data","Hoch T, Tan X, Leser R,",2017,http://dx.doi.org/10.1080/13873954.2017.1336634,performance evaluation,football,Male,National,Austria,Europe,,121.0,Tracking Data,7.0,,,,
+"Evaluating technical and tactical abilities of football teams in euro
+2012 based on improved information entropy model and SOM neural
+networks",Wang M.,2014,http://dx.doi.org/10.14257/ijmue.2014.9.11.29,performance evaluation,football,Male,International,Europe,Europe,,,Notational Data,11.0,,,,
+"A logistic regression/Markov chain model for American
+college football","Kolbush J, Sokol J.",2017,http://dx.doi.org/10.1515/ijcss-2017-0014,match outcome prediction,american football,Male,National,USA,North America,1998-2016,,Notational Data,,,,Accuracy,0.6079
+"A Markov Game model for valuing
+actions, locations, and team performance in ice hockey","Schulte O, Khademi M, Gholami S",2017,https://link.springer.com/article/10.1007/s10618-017-0496-z,performance evaluation,ice hockey,Male,National,USA Canada,North America,,446.0,Notational Data,,,,,0.82
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,Logistic Regression,Linear Models,,0.803
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,Logistic Regression,Linear Models,,0.2983
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,Logistic Regression,Linear Models,,0.9291
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,Support Vector Machine,Kernel-Based Models,,0.8659
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,Support Vector Machine,Kernel-Based Models,,0.2169
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,Support Vector Machine,Kernel-Based Models,,0.6306
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,,,,0.9194
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,,,,0.2303
+Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,105.0,Notational Data,,,,,0.652
+"Expert system for ice hockey game
+prediction: data mining with human judgmen","Gu W, Saaty TL, Whitaker R",2016,http://dx.doi.org/10.1142/S0219622016400022,match outcome prediction,ice hockey,Male,National,USA Canada,North America,,1230.0,Notational Data,17.0,Support Vector Machine,Kernel-Based Models,Accuracy,0.775
+"Grouping of soccer game rec-
+ords by multiscale comparison technique and rough clus-
+tering","Hirano S, Tsumoto S",2005,https://doi.org/10.1109/ICHIS.2005.53,performance evaluation,football,Male,International,World,Global / Unspecified,,64.0,Notational Data & Tracking Data,,,,,
+"Characterizing
+multi-agent team behavior from partial team tracings:
+Evidence from the English premier league"," Lucey P, Bialkowski A, Carr P",2012,https://doi.org/10.1609/aaai.v26i1.8246,playing style,football,Male,National,Enlgand,Europe,2010-2011,380.0,Tracking Data,,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.47
+"Team play in football: How science supports
+FC Barcelona’s training strategy",Chassy P. ,2013,http://dx.doi.org/10.4236/psych.2013.49A2002,performance evaluation,football,Male,International,Europe,Europe,,32.0,Notational Data,,Linear Regression,Linear Models,,
+"Large-scale analysis of
+formations in soccer","Wei X, Sha L, Lucey P,",2013,https://doi.org/10.1109/DICTA.2013.6691503,performance prediction,football,Male,International,Europe,Europe,,9.0,Tracking Data,,Decision Tree,Individual Decision Trees,Accuracy,0.805
+"Large-scale analysis of
+formations in soccer","Wei X, Sha L, Lucey P,",2013,https://doi.org/10.1109/DICTA.2013.6691503,performance prediction,football,Male,International,Europe,Europe,,9.0,Tracking Data,,Decision Tree,Individual Decision Trees,Accuracy,0.9075
+"Win at home and
+draw away: Automatic formation analysis highlighting
+the differences in home and away team behaviors","Bialkowski A, Lucey P, Carr P",2014,https://www.sloansportsconference.com/research-papers/win-at-home-and-draw-away-automatic-formation-analysis-highlighting-the-differences-in-home-and-away-team-behaviors,playing style,football,Male,National,,Global / Unspecified,,,Tracking Data,,,,,
+Beyond expected goals,Spearman W,2018,https://fr.scribd.com/document/478877872/YDRAY-document,performance prediction,football,Male,National,,Global / Unspecified,2017-2018,58.0,Event Data,,,,,0.26
+Temporal match analysis and recommending substitutions in live soccer games,"Berman Y, Mistry S, Mathew J, Krishna A",2022,https://doi.org/10.1109/ICWS55610.2022.00066,match outcome prediction,football,Male,International,World,Global / Unspecified,2016-2018,1941.0,Notational Data,,XGBoost,Ensemble Methods,Accuracy,0.67
+"Predicting NBA Game 
+Outcomes with Hidden Markov Models",Vashisht Madhavan,2016,,match outcome prediction,basketball,Male,National,USA,North America,,,,6.0,,,Accuracy,0.73
+Neural network prediction of nfl football games,"Kahn, J. ",2003,https://fr.scribd.com/presentation/60474842/kahn,match outcome prediction,american football,Male,National,USA,North America,,208.0,Notational Data,10.0,,,Accuracy,0.75
+"Prediction of NBA games based on machine learning methods, computer-aided engineering","Torres, R. A",2013,,match outcome prediction,basketball,Male,National,USA,North America,2006-2012,,,8.0,,,Accuracy,0.6844
+"Prediction of NBA games based on machine learning methods, computer-aided engineering","Torres, R. A",2013,,match outcome prediction,basketball,Male,National,USA,North America,2006-2012,,,8.0,Linear Regression,Linear Models,Accuracy,0.6798
+"Prediction of NBA games based on machine learning methods, computer-aided engineering","Torres, R. A",2013,,match outcome prediction,basketball,Male,National,USA,North America,2006-2012,,,8.0,,,Accuracy,0.6681
+Predicting football scores using machine learning technique,"Hucaljuk, J., & Rakipovi_x0013_c, A",2011,https://ieeexplore.ieee.org/document/5967321,match outcome prediction,football,Male,International,Europe,Europe,,,,30.0,Neural Network,Neural Networks,Accuracy,0.688
+Predicting football scores using machine learning technique,"Hucaljuk, J., & Rakipovi_x0013_c, A",2011,https://ieeexplore.ieee.org/document/5967321,match outcome prediction,football,Male,International,Europe,Europe,,,,30.0,,,Accuracy,0.688
+Predicting football scores using machine learning technique,"Hucaljuk, J., & Rakipovi_x0013_c, A",2011,https://ieeexplore.ieee.org/document/5967321,match outcome prediction,football,Male,International,Europe,Europe,,,,30.0,,,Accuracy,0.656
+Predicting football scores using machine learning technique,"Hucaljuk, J., & Rakipovi_x0013_c, A",2011,https://ieeexplore.ieee.org/document/5967321,match outcome prediction,football,Male,International,Europe,Europe,,,,30.0,K-Nearest Neighbors,Distance/Neighbor-Based,Accuracy,0.625
+The Problem with Win Probability,"Ganguly, S., Frank, N.",2018,,match outcome prediction,basketball,Male,National,USA,North America,2002-2016,4940.0,,352.0,Neural Network,Neural Networks,Accuracy,0.82
+"Quantifying the value of
+transitions in soccer via spatiotemporal trajectory cluster-
+ing","Hobbs J, Power P, Sha L,",2018,https://www.semanticscholar.org/paper/Quantifying-the-Value-of-Transitions-in-Soccer-via-Hobbs-Power/01bdc98b7260ce99189ca7a4100a13626312575b,performance prediction,football,Male,National,England,Europe,2016-2017,,Tracking Data,,,,,

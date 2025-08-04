@@ -1,0 +1,537 @@
+inclusion,Title,Author,Date,DOI,Bunker & Susnjak (2022),Claudino et al. (2019),Herold et al. (2019),Horvat & Job (2020),Plakias et al. (2024),Pu et al. (2024),Rico-González et al. (2023),Sukumaran et al. (2022),Bonidia et al. (2018),Haghighat et al. (2013),Keshtkar Langaroudi & Yamaghani (2019),Sum of Presence
+included,"An evaluation of human and
+computer-based predictions of the 2003 rugby union world cup,","O’Donoghue, P., & Williams, J",2004,https://doi.org/10.1515/ijcss-2016-0003,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Development and application of
+computer-based prediction methods","Reed, D., & O’Donoghue, P",2005,https://doi.org/10.1080/24748668.2005.11868334,1,0,0,0,0,0,0,0,0,0,0,1
+included,Artificial intelligence in sports prediction,"McCabe, A., & Trevathan, J.",2008,10.1109/ITNG.2008.203,1,0,0,1,0,0,0,0,0,1,0,3
+included,Predictive models of the 2015 rugby world cup: Accuracy and application,"O’Donoghue, P., Ball, D., Eustace, J., McFarlan, B., & Nisotaki, M.",2016,10.1515/ijcss-2016-0003,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Use of performance metrics to
+forecast success in the national hockey league","Weissbock, J., Viktor, H., & Inkpen, D.",2013,https://ceur-ws.org/Vol-1969/paper-06.pdf,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Combining textual pre-game reports
+and statistical data for predicting success in the national hockey league","Weissbock, J., & Inkpen, D.",2014,https://link.springer.com/chapter/10.1007/978-3-319-06483-3_22,1,0,0,0,0,0,0,0,0,0,0,1
+included,"A game-predicting expert
+system using big data and machine learning","Gu, W., Foster, K., Shang, J., & Wei, L.)",2019,https://doi.org/10.1016/j.eswa.2019.04.025,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Predicting football results
+using bayesian nets and other machine learning techniques","Joseph, A., Fenton, N. E., & Neil, M",2006,https://doi.org/10.1016/j.knosys.2006.04.011,1,0,1,0,0,0,1,0,0,0,0,3
+included,Predicting sports events from past results.,Buursma,2010,https://silo.tips/download/predicting-sports-events-from-past-results,1,0,0,1,0,0,0,0,0,1,0,3
+included,"A neural network method for prediction
+of 2006 world cup football game","Huang, K.-Y., & Chang",2010,10.1109/IJCNN.2010.5596458,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Using bookmaker odds to predict the
+final result of football matches","Odachowski, K., & Grekow, J.",2012,10.1007/978-3-642-37343-5_20,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Predicting the dutch football competition us-
+ing public data: A machine learning approach","Tax, N., & Joustra, Y.",2015,10.13140/RG.2.1.1383.4729,1,0,1,1,0,0,0,0,0,0,0,3
+included,Predicting football match results with logistic regression,"Prasetio, D.",2016,10.1109/ICAICTA.2016.7803111,1,0,0,1,0,0,0,0,0,0,0,2
+included,"Football match prediction using
+players attributes","Danisik, N., Lacko, P., & Farkas, M.",2018,https://doi.org/10.1109/DISA.2018.8490613,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Learning to predict soccer
+results from relational data with gradient boosted trees","Hubácek, O., Šourek, G., & Železn`y, F.",2019,10.1007/s10994-018-5704-6,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Dolores: a model that predicts football match
+outcomes from all over the world","Constantinou, A. C.",2019,10.1007/s10994-018-5703-7,1,0,0,0,0,0,0,0,0,0,0,1
+included,"Incorporating domain knowledge
+in machine learning for soccer outcome prediction","Berrar, D., Lopes, P., & Dubitzky, W",2019,10.1007/s10994-018-5747-8,1,0,0,0,0,0,0,0,0,0,0,1
+included,Neural network quarterbacking,"Purucker, M. C.",1996,https://doi.org/10.1109/45.535226,1,0,0,1,0,0,0,0,0,0,0,2
+included,Nfl prediction using committees of artificial neural networks.,"David, J. A., Pasteur, R. D., Ahmad, M. S., & Janning, M. C.",2011,http://dx.doi.org/10.2202/1559-0410.1327,1,0,0,0,0,0,0,0,0,0,0,1
+included,"A comparative analysis of data
+mining methods in predicting ncaa bowl outcome","Delen, D., Cogdell, D., & Kasap, N.",2012,https://doi.org/10.1016/j.ijforecast.2011.05.002,1,0,0,1,0,0,0,0,0,0,0,2
+excluded,"Applications of modern classification
+techniques to predict the outcome of odi cricket","Pathak, N., & Wadhwa, H.",2016,https://doi.org/10.1016/j.procs.2016.05.126,1,0,0,0,0,0,0,0,1,0,0,2
+excluded,"Predicting win-loss outcomes in mlb regular season
+games–a comparative study using data mining methods.","Valero, C. S.",2016,https://doi.org/10.1515/ijcss-2016-0007,1,1,0,1,0,0,0,0,0,0,0,3
+included,"Predict the neural network mathematical model of basketball team scores
+based on improved BP algorithm.",Li C.,2013,https://www.tsijournals.com/articles/predict-the-neural-network-mathematical-model-of-basketball-team-scores-based-on-improved-bp-algorithm.pdf,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Evaluation model of young basketball players’ physical quality
+and basic technique based on RBF neural network",Lu G,2013,https://www.tsijournals.com/articles/evaluation-model-of-young-basketball-players-physical-quality-and-basic-technique-based-on-rbf-neural-network.pdf,0,1,0,0,0,0,0,0,0,0,0,1
+included,"The participating team’s technical analysis of women’s basketball in
+the 30th Olympic Games based on neural network",Wu L.,2013,https://doi.org/10.12775/JEHS.2021.11.07.005,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Prediction based on basketball competition video athlete
+behaviors and on-line RBF neural network application",Zhang Q.,2014,https://www.scholarscentral.com/pdfs/76984/prediction-based-on-basketball-competition-video-athlete-behaviors-and-online-rbf-neural-network-application.pdf,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Detecting tactical patterns in basketball:
+comparison of merge self-organising maps and dynamic controlled neural
+networks","Kempe M, Grunz A, Memmert D",2015,https://doi.org/10.1080/17461391.2014.933882,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Role revolution: towards a new meaning
+of positions in basketball.","Bianchi F, Facchinetti T, Zuccolotto P.",2017,https://www.researchgate.net/publication/321667468_Role_revolution_Towards_a_new_meaning_of_positions_in_basketball,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Analysis of tactical defensive behavior in team handball
+by means of artificial neural networks","Tilp M, Schrapf N",2015,http://dx.doi.org/10.1016/j.ifacol.2015.05.169,0,1,0,0,0,0,0,0,0,0,1,2
+included,"Evaluation of tactical training
+in team handball by means of artificial neural networks","Hassan A, Schrapf N, Ramadan W",2017,https://doi.org/10.1080/02640414.2016.1183804,0,1,0,0,0,0,0,0,0,0,0,1
+included,"The prediction of action positions in team
+handball by non-linear hybrid neural network","Hassan A, Schrapf N, Tilp M",2017,https://doi.org/10.1080/24748668.2017.1336688,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Tactical interaction of offensive and defensive
+teams in team handball analysed by artificial neural network","Schrapf N, Alsaied S, Tilp M",2017,http://dx.doi.org/10.1080/13873954.2017.1336733,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Intelligent prediction of soccer
+technical skill on youth soccer player’s relative performance using
+multivariate analysis and artificial neural network techniques","Abdullah MR, Maliki ABHM, Musa RM",2016,http://dx.doi.org/10.18517/ijaseit.6.5.975,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Neural network models for group behavior prediction:
+a case of soccer match attendance.","Strnad D, Nerat A, Kohek Š.",2017,https://doi.org/10.1007/s00521-015-2056-z,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"A deep learning-based sports player
+evaluation model based on game statistics and news articles","Park YJ, Kim HS, Kim D,",2017,https://doi.org/10.1016/j.knosys.2017.09.028,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Prediction of team league’s rankings in volleyball by
+artificial neural network method","Tümer AE, Koçer S.",2017,https://doi.org/10.1080/24748668.2017.1331570,0,1,0,0,0,0,0,0,0,0,0,1
+included,"The application of self-organising
+maps to performance analysis data in rugby union","Croft H, Lamb P, Middlemas S",2015,https://doi.org/10.1080/24748668.2015.11868849,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Ranking features on
+psychological dynamics of cooperative team work through Bayesian
+networks","Fuster-Parra P, Garcia-Mas A, Cantallops J",2016,https://doi.org/10.3390/sym8050034,0,1,0,0,0,0,0,0,0,0,0,1
+included,Individual ball possession in soccer,"Link D, Hoernig M",2017,https://doi.org/10.1371/journal.pone.0179953,0,1,0,0,0,0,1,0,0,0,0,2
+excluded,"Learning visualizing, and assessing a model for the intrinsic value
+of a batted ball.",Healey G.,2017,http://dx.doi.org/10.1109/ACCESS.2017.2728663,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Using meta-regression data mining
+to improve predictions of performance based on heart rate dynamics for
+Australian footbal","Jelinek HF, Kelarev A, Robinson DJ",2014,http://dx.doi.org/10.1016/j.asoc.2013.08.010,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Explaining match outcome in elite
+Australian Rules football using team performance indicators","Robertson S, Back N, Bartlett JD",2016,https://doi.org/10.1080/02640414.2015.1066026,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Classification of playing position
+in elite junior Australian football using technical skill indicators","Woods CT, Veale J, Fransen J,",2018,http://dx.doi.org/10.1080/02640414.2017.1282621,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Explaining match outcome during
+the men’s basketball tournament at the Olympic Game","Leicht AS, Gomez MA, Woods CT",2017,https://pmc.ncbi.nlm.nih.gov/articles/PMC5721175/,0,1,0,0,0,0,0,1,0,0,0,2
+included,"Team performance indicators explain
+outcome during women’s basketball matches at the Olympic Games","Leicht AS, Gomez MA, Woods CT.",2017,http://dx.doi.org/10.3390/sports5040096,0,1,0,0,0,0,0,0,0,0,0,1
+included,"What is the difference between a winning and a losing team:
+insights from Euroleague basketball",Cene E,2018,https://doi.org/10.1080/24748668.2018.1446234,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Team activity
+recognition in Association Football using a Bag-of-Words-based method","Montoliu R, Martin-Felez R, Torres-Sospedra J",2015,https://doi.org/10.1016/j.humov.2015.03.007,0,1,1,0,0,0,1,0,0,0,0,3
+included,"Discovering the drivers of
+football match outcomes with data mining","Carpita M, Sandri M, Simonetto A",2016,http://dx.doi.org/10.1080/16843703.2015.11673436,0,1,0,0,0,0,0,0,0,0,0,1
+included,Empirical prediction of turnovers in NFL Football. Sports.,Bock JR,2017,http://dx.doi.org/10.3390/sports5010001,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Applying decision tree induction for
+identification of important attributes in one-versus-one player interactions: a
+hockey exemplar.","Morgan S, Williams MD, Barnes C",2013,http://dx.doi.org/10.1080/02640414.2013.770906,0,1,0,0,0,0,0,0,0,0,0,1
+included,"A knowledge discovery framework for the
+assessment of tactical behaviour in soccer based on spatiotemporal data","Hoch T, Tan X, Leser R,",2017,http://dx.doi.org/10.1080/13873954.2017.1336634,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Comparing pay versus performance of IPL Bowlers: an
+application of cluster analysis",Sankaran S,2014,http://dx.doi.org/10.1080/24748668.2014.11868713,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Evaluating technical and tactical abilities of football teams in euro
+2012 based on improved information entropy model and SOM neural
+networks",Wang M.,2014,http://dx.doi.org/10.14257/ijmue.2014.9.11.29,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"SAETA: a smart coaching
+assistant for professional volleyball training","Vales-Alonso J, Chaves-Dieguez D, Pablo LM",2015,http://dx.doi.org/10.1109/TSMC.2015.2391258,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Study of application of factors of volleyball game based on data
+mining",Sheng L.,2013,http://dx.doi.org/10.3923/itj.2013.5172.5176,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Application of data mining in technical and tactical
+analysis of volleyball match.","Haiyan J, Jianqiang F",2017,https://www.researchgate.net/publication/322365238_Application_of_data_mining_in_technical_and_tactical_analysis_of_volleyball_match,0,1,0,0,0,0,0,0,0,0,0,1
+included,"A logistic regression/Markov chain model for American
+college football","Kolbush J, Sokol J.",2017,http://dx.doi.org/10.1515/ijcss-2017-0014,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Technical and tactical analysis of basketball match based on
+data mining.","Zi M, Gao D",2017,https://www.researchgate.net/publication/322445054_Technical_and_tactical_analysis_of_basketball_match_based_on_data_mining,0,1,0,0,0,0,0,0,0,0,0,1
+included,"A Markov Game model for valuing
+actions, locations, and team performance in ice hockey","Schulte O, Khademi M, Gholami S",2017,https://link.springer.com/article/10.1007/s10618-017-0496-z,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Pitch sequence complexity and long-term pitcher performance.
+Sports.",Bock JR.,2015,https://doi.org/10.3390/sports3010040,0,1,0,0,0,0,0,0,0,0,0,1
+included,Riding a probabilistic support vector machine to the Stanley Cup,Demers S,2015,http://dx.doi.org/10.1515/jqas-2014-0093,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Expert system for ice hockey game
+prediction: data mining with human judgmen","Gu W, Saaty TL, Whitaker R",2016,http://dx.doi.org/10.1142/S0219622016400022,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Volleyball skill assessment using a
+single wearable micro inertial measurement unit at wrist.","Wang Y, Zhao Y, Chan RHM,",2018,http://dx.doi.org/10.1109/ACCESS.2018.2792220,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Analyzing basketball games by a support
+vector machines with decision tree model.","Pai PF, ChangLiao LH, Lin KP.",2017,https://link.springer.com/article/10.1007/s00521-016-2321-9,0,1,0,1,0,0,0,1,0,0,0,3
+excluded,"Study on knee joint injury in college
+football training based on artificial neural network","Qilin S, Xiaomei W, Xiaoling F,",2016,https://www.proquest.com/openview/d423c460338b7107e8fe27e5449b437d/1?cbl=1006393&pq-origsite=gscholar,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Automated detection of heart
+defects in athletes based on electrocardiography and artificial neural
+network","Adetiba E, Iweanya VC, Popoola SI,",2017,http://dx.doi.org/10.1080/23311916.2017.1411220,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Enhancement of force patterns
+classification based on Gaussian distributions.","Ertelt T, Solomonovs I, Gronwald T.",2018,https://doi.org/10.1016/j.jbiomech.2017.12.006,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Research on the factors of basketball injury in physical teaching based
+on artificial neural network",Ge S,2017,https://www.researchgate.net/publication/318836088_Research_on_the_factors_of_basketball_injury_in_physical_teaching_based_on_artificial_neural_network,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Relationships between internal
+and external training load in team-sport athletes: evidence for an
+individualized approach","Bartlett JD, O’Connor F, Pitchford N,",2017,https://doi.org/10.1123/ijspp.2015-0791,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Activity recognition in beach
+volleyball using a deep convolutional neural network","Kautz T, Groh BH, Hannink J",2017,https://link.springer.com/article/10.1007/s10618-017-0495-0,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Psychosocial stress factors,
+including the relationship with the coach, and their influence on acute and
+overuse injury risk in elite female football players","Pensgaard AM, Ivarsson A, Nilstad A",2018,https://doi.org/10.1136/bmjsem-2017-000317,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Predictive modeling of
+hamstring strain injuries in elite Australian Footballers","Ruddy JD, Shield AJ, Maniar N",2018,https://doi.org/10.1249/mss.0000000000001527,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"A preventive model for
+muscle injuries: a novel approach based on learning algorithms","López-Valenciano A, Ayala F, Puerta JM,",2018,https://doi.org/10.1249/mss.0000000000001535,0,1,0,0,0,0,1,0,0,0,0,2
+excluded,"Effective injury forecasting in soccer with
+GPS training data and machine learning.","Rossi A, Pappalardo L, Cintia P",2018,https://doi.org/10.1371/journal.pone.0201264,0,1,0,0,0,0,1,0,0,0,0,2
+excluded,"Importance of various training-
+load measures in injury incidence of professional Rugby League athletes","Thornton HR, Delaney JA, Duthie GM",2017,https://doi.org/10.1123/ijspp.2016-0326,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Relationships between the external
+and internal training load in professional soccer: what can we learn from
+machine learning?","Jaspers A, De Beéck TO, Brink MS",2018,https://doi.org/10.1123/ijspp.2017-0299,0,1,0,0,0,0,1,0,0,0,0,2
+excluded,"Frontotemporal correlates of
+impulsivity and machine learning in retired professional athletes with a
+history of multiple concussions.","Goswami R, Dufort P, Tartaglia MC,",2016,https://doi.org/10.1007/s00429-015-1012-0,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Detection of American football head
+impacts using biomechanical features and support vector machine
+classification","Wu LC, Kuo C, Loza J,",2018,https://doi.org/10.1038/s41598-017-17864-3,0,1,0,0,0,0,0,0,0,0,0,1
+excluded,"Predictors of ulnar collateral
+ligament reconstruction in Major League Baseball pitchers","Whiteside D, Martini DN, Lepley AS",2016,http://dx.doi.org/10.1177/0363546516643812,0,1,0,0,0,0,0,0,0,0,0,1
+included,"Grouping of soccer game rec-
+ords by multiscale comparison technique and rough clus-
+tering","Hirano S, Tsumoto S",2005,https://doi.org/10.1109/ICHIS.2005.53,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Characterizing
+multi-agent team behavior from partial team tracings:
+Evidence from the English premier league","Lucey P, Bialkowski A, Carr P",2012,https://doi.org/10.1609/aaai.v26i1.8246,0,0,1,0,1,0,0,0,0,0,0,2
+included,"Team play in football: How science supports
+FC Barcelona’s training strategy",Chassy P.,2013,http://dx.doi.org/10.4236/psych.2013.49A2002,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Large-scale analysis of
+formations in soccer","Wei X, Sha L, Lucey P,",2013,https://doi.org/10.1109/DICTA.2013.6691503,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Win at home and
+draw away: Automatic formation analysis highlighting
+the differences in home and away team behaviors","Bialkowski A, Lucey P, Carr P",2014,https://www.sloansportsconference.com/research-papers/win-at-home-and-draw-away-automatic-formation-analysis-highlighting-the-differences-in-home-and-away-team-behaviors,0,0,1,0,0,1,0,0,0,0,0,2
+included,"Automated
+classification of passing in football","Horton M, Gudmundsson J, Chawla S,",2015,http://dx.doi.org/10.1007/978-3-319-18032-8_25,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Measuring scoring
+efficiency through goal expectancy estimation","Ruiz H, Lisboa P, Neilson P,",2015,https://www.esann.org/sites/default/files/proceedings/legacy/es2015-126.pdf,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Discovering team
+structures in soccer from spatiotemporal data","Bialkowski A, Lucey P, Carr P,",2016,http://dx.doi.org/10.1109/TKDE.2016.2581158,0,0,1,0,1,0,1,0,0,0,0,3
+included,"Using machine learning
+to draw inferences from pass location data in soccer","Brooks J, Kerr M and Guttag J.",2016,https://doi.org/10.1002/sam.11318,0,0,1,0,0,0,1,0,0,0,0,2
+included,"Recognition of repetitive movement
+patterns—The case of football analysis",Feuerhake U,2016,https://doi.org/10.3390/ijgi5110208,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Spatio-temporal
+convolution kernels","Knauf K, Memmert D  Brefeld U",2016,http://dx.doi.org/10.1007/s10994-015-5520-1,0,0,1,0,1,0,1,0,0,0,0,3
+included,"Beyond completion rate:
+Evaluating the passing ability of footballers",Szczepan´ ski L and McHale I.,2016,http://dx.doi.org/10.1111/rssa.12115,0,0,1,0,0,0,1,0,0,0,0,2
+included,"Classification of passes in football matches using spatio-
+temporal data","Michael Horton, Chawla S, Estephan J, Gudmundsson J,",2017,https://doi.org/10.48550/arXiv.1407.5093,0,0,1,0,1,1,1,0,0,0,0,4
+included,"Data-driven ghosting using
+deep imitation learning","Le HM, Carr P, Yue Y,",2017,https://la.disneyresearch.com/wp-content/uploads/Data-Driven-Ghosting-using-Deep-Imitation-Learning-Paper1.pdf,0,0,1,0,0,1,0,0,0,0,0,2
+included,"Current
+approaches to tactical performance analyses in soccer
+using position data","Memmert D, Lemmink KA and Sampaio J",2017,https://doi.org/10.1007/s40279-016-0562-5,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Quantifying the relation
+between performance and success in soccer",Pappalardo L and Cintia P.,2017,http://dx.doi.org/10.1142/S021952591750014X,0,0,1,0,0,0,1,0,0,0,0,2
+included,"Not all passes are created
+equal: Objectively measuring the risk and reward of
+passes in soccer from tracking data","Power P, Ruiz H, Wei X,",2017,https://doi.org/10.1145/3097983.3098051,0,0,1,0,0,1,0,0,0,0,0,2
+excluded,"An examination of expected goals and shot effi-
+ciency in soccer",Rathke A.,2017,http://dx.doi.org/10.14198/jhse.2017.12.Proc2.05,0,0,1,0,0,1,0,0,0,0,0,2
+included,"Artificial neural net-
+works and player recruitment in professional soccer","Barron D, Ball G, Robins M",2018,https://doi.org/10.1371/journal.pone.0205818,0,0,1,0,0,0,1,0,0,0,0,2
+included,"Not every pass
+can be an assist: A data-driven model to measure pass
+effectiveness in professional soccer matches","Goes FR, Kempe M, Meerhoff LA,",2018,http://dx.doi.org/10.1089/big.2018.0067,0,0,1,0,0,1,1,0,0,0,0,3
+included,"Large-scale analysis
+of soccer matches using spatiotemporal tracking data","Bialkowski A, Lucey P, Carr P,",2014,https://doi.org/10.1109/ICDM.2014.133,0,0,1,0,0,1,0,0,0,0,0,2
+included,"Quality vs
+quantity: Improved shot prediction in soccer using stra-
+tegic features from spatiotemporal data","Lucey P, Bialkowski A, Monfort M",2014,https://www.sloansportsconference.com/research-papers/quality-vs-quantity-improved-shot-prediction-in-soccer-using-strategic-features-from-spatiotemporal-data,0,0,1,0,0,1,0,0,0,0,0,2
+included,"Explaining soccer
+match outcomes with goal scoring opportunities predict-
+ive analytics",Eggels RvEH and Pechenizkiy M,2016,https://ceur-ws.org/Vol-1842/paper_07.pdf,0,0,1,0,0,1,0,0,0,0,0,2
+included,"Discovering meth-
+ods of scoring in soccer using tracking data","Fernando T, Wei X, Fookes C,",2015,https://eprints.qut.edu.au/118093/13/118093.pdf,0,0,1,0,0,0,0,0,0,0,0,1
+included,"Quantifying the value of
+transitions in soccer via spatiotemporal trajectory cluster-
+ing","Hobbs J, Power P, Sha L,",2018,https://www.semanticscholar.org/paper/Quantifying-the-Value-of-Transitions-in-Soccer-via-Hobbs-Power/01bdc98b7260ce99189ca7a4100a13626312575b,0,0,1,0,0,0,0,0,0,0,0,1
+included,Beyond expected goals,Spearman W,2018,https://fr.scribd.com/document/478877872/YDRAY-document,0,0,1,0,0,1,0,0,0,0,0,2
+included,Various machine learning approaches to predicting NBA score margins,"Avalon, G., Balci, B., Guzman, J",2016,https://cs229.stanford.edu/proj2016/report/Avalon_balci_guzman_various_ml_approaches_NBA_Scores_report.pdf,0,0,0,1,0,0,0,0,0,0,0,1
+included,NFL & NCAA Football Prediction using Artificial Neural networ,"Blaikie, A. D., David, J. A., Abud, G. J., & Pasteur, R. D",2011,https://www.semanticscholar.org/paper/NFL-%26-NCAA-Football-Prediction-using-Artificial-Blaikie-Abud/5207ead80e566abd29bf2c171143fa6473c28b6a,0,0,0,1,0,0,0,0,0,0,0,1
+excluded,Sports data mining technology used in basketball outcome prediction,"Cao, C.",2012,https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1040&context=scschcomdis,0,0,0,1,0,0,0,1,0,1,0,3
+included,"Predicting the outcome of NBA playoffs based on the maximum entropy
+principle","Cheng, G., Zhang, Z., Kyebambe, M. N., & Kimbugwe, N",2016,http://dx.doi.org/10.3390/e18120450,0,0,0,1,0,0,0,0,0,0,0,1
+excluded,Predicting the outcomes of MLB games with a machine learning approach,"Elfrink, T.",2018,https://www.cs.vu.nl/~sbhulai/papers/paper-elfrink.pdf,0,0,0,1,0,0,0,0,0,0,0,1
+included,The Problem with Win Probability,"Ganguly, S., Frank, N.",2018,,0,0,0,1,0,0,0,0,0,0,0,1
+included,Predicting the outcome of NFL games using machine learning,"Hamadani, B",2006,https://cs229.stanford.edu/proj2006/BabakHamadani-PredictingNFLGames.pdf,0,0,0,1,0,0,0,0,0,0,0,1
+included,"Importance of the training dataset length in basketball game outcome prediction by using naïve classification
+machine learning methods","Horvat, T., & Job, J.",2019,https://www.proquest.com/openview/33a07d549416cde663a9e6819f600c21/1?cbl=1606352&pq-origsite=gscholar,0,0,0,1,0,0,0,0,0,0,0,1
+included,Prediction of Euroleague games based on supervised classification algorithm k-nearest neighbours,"Horvat, T., Job, J., & Medved, V.",2018,https://www.scitepress.org/Papers/2018/68935/68935.pdf,0,0,0,1,0,0,0,0,0,0,0,1
+included,Exploiting sports-betting market using machine learning,"Hubácˇek, O., Šourek, G., & Železný, F",2019,https://www.sciencedirect.com/science/article/abs/pii/S016920701930007X,0,0,0,1,0,0,0,0,0,0,0,1
+included,Predicting football scores using machine learning technique,"Hucaljuk, J., & Rakipovi_x0013_c, A",2011,https://ieeexplore.ieee.org/document/5967321,1,0,1,1,0,0,0,0,0,0,0,3
+excluded,An improved prediction system for football a match result,"Igiri, C. P., & Nwachukwu, E. O.",2014,http://dx.doi.org/10.9790/3021-04124012020,0,0,0,1,0,0,0,0,0,0,0,1
+excluded,Using Machine Learning to Predict the Outcome of English County twenty over Cricket Matches,"Kampakis, S., & Thomas, W",2015,https://doi.org/10.48550/arXiv.1511.05837,0,0,0,1,0,0,0,0,0,0,0,1
+included,Machine-learning-based statistical arbitrage football betting,"Knoll, J., & Stübinger, J",2020,http://dx.doi.org/10.1007/s13218-019-00610-4,0,0,0,1,0,0,0,0,0,0,0,1
+excluded,Napovedanje zmagovalcev košarkaških tekem,"Kravanja, A.",2013,https://repozitorij.uni-lj.si/IzpisGradiva.php?id=157507&lang=slv&prip=dkum:11949245:d1,0,0,0,1,0,0,0,0,0,0,0,1
+included,One-match-ahead forecasting in two-team sports with stacked Bayesian regressions,"Lam, M. W. Y",2018,https://doi.org/10.1515/jaiscr-2018-0011,0,0,0,1,0,0,0,0,0,0,0,1
+included,Predicting National Basketball Association Winners,"Lin, J., Short, L., & Sundaresan, V",2014,"https://cs229.stanford.edu/proj2014/Jasper%20Lin,%20Logan%20Short,%20Vishnu%20Sundaresan,%20Predicting%20National%20Basketball%20Association%20Game%20Winners.pdf",0,0,0,1,0,0,0,0,0,0,0,1
+included,Predicting NBA games using neural network,"Loeffelholz, B., Bednar, E., & Bauer, K. W",2009,http://dx.doi.org/10.2202/1559-0410.1156,0,0,0,1,0,0,0,1,0,0,0,2
+included,The use of data mining for basketball matches outcomes prediction,"Miljkovi_x0013_c, D., Gaji_x0013_c, L., Kovacˇevi_x0013_c, A., & Konjovi_x0013_c, Z.",2010,http://dx.doi.org/10.1109/SISY.2010.5647440,0,0,0,1,0,0,0,1,1,1,0,4
+included,"Football result prediction with Bayesian network in Spanish league-Barcelona
+team","Owramipur, F., Eskandarian, P., & Mozneb Sadat, F.",2013,http://dx.doi.org/10.7763/IJCTE.2013.V5.802,0,0,0,1,0,0,0,0,0,0,1,2
+included,Machine learning in football betting: Prediction of match results based on player characteristics,"Stübinger, J., Mangold, B., & Knoll, J",2020,https://doi.org/10.3390/app10010046,0,0,0,1,0,0,0,0,0,0,0,1
+included,"Prediction of NBA games based on machine learning methods, computer-aided engineering","Torres, R. A",2013,,0,0,0,1,0,0,0,0,0,0,0,1
+included,Predicting NBA games with matrix factorization,"Tran, T.",2016,https://dspace.mit.edu/bitstream/handle/1721.1/106385/967660262-MIT.pdf?sequence=1,0,0,0,1,0,0,0,0,0,0,0,1
+included,A fuzzy classification system for prediction of the results of the basketball games,"Trawinski, K",2010,http://dx.doi.org/10.1109/FUZZY.2010.5584399,0,0,0,1,0,0,0,1,0,1,0,3
+included,Prediction of football match score and decision making process,"Zaveri, N., Shah, U., Tiwari, S., Shinde, P., & Kumar Teli, L",2018,http://dx.doi.org/10.1016/j.procs.2022.08.057,0,0,0,1,0,0,0,0,0,0,0,1
+included,System for prediction of the winner in a sports game,"Zdravevski, E., & Kulakov, A",2010,http://dx.doi.org/10.1007/978-3-642-10781-8_7,0,0,0,1,0,0,0,1,0,1,0,3
+included,"Predicting college basketball match outcomes using machine learning techniques: Some results
+and lessons learned","Zimmermann, A., Moorthy, S., Shi, Z",2013,https://doi.org/10.48550/arXiv.1310.3607,0,0,0,1,0,0,0,0,0,0,0,1
+included,Tactical pattern recognition in soccer games by means of special self-organizing maps,"Grunz A, Memmert D, Perl J",2012,https://doi.org/10.1016/j.humov.2011.02.008,0,0,0,0,1,0,0,0,0,0,0,1
+included,Tactics analysis in soccer:an advanced approach,"Perl J, Grunz A, Memmert D",2013,https://www.dshs-koeln.de/fileadmin/redaktion/Institute/Kognitions-_und_Sportspielforschung/Publikationen/Paper/Perl_2013_Tactics-analysis-in-soccer.pdf,0,0,0,0,1,1,0,0,0,0,0,2
+included,Similarity calculation based on pass regions in soccer videos,"Takahashi S, Bertini M, Del Bimbo A, Haseyama M,
+Hagiwara T",2019,https://doi.org/10.1109/GCCE46687.2019.9015352,0,0,0,0,1,0,0,0,0,0,0,1
+included,"Team tactics estimation in soccer videos based on a deep extreme learning
+machine and characteristics
+of the tactics","Suzuki G, Takahashi S, Ogawa T, Haseyama M",2019,https://doi.org/10.1109/ACCESS.2019.2946378,0,0,0,0,1,0,0,0,0,0,0,1
+included,GreenSea: visual soccer analysis using broad learning system,"Sheng B, Li P, Zhang Y, Mao L",2020,https://doi.org/10.1109/TCYB.2020.2988792,0,0,0,0,1,0,1,0,0,0,0,2
+included,Positional analysis of Brazilian soccer players using GPS data,"Gasparini R, Álvaro A",2020,https://doi.org/10.5335/rbca.v12i3.10234,0,0,0,0,1,0,0,0,0,0,0,1
+included,"Predicting wins, losses and attributes’ sensitivities in the Soccer World Cup 2018
+using neural network analysis","Hassan A, Akl A-R, Hassan I, Sunderland C",2020,https://doi.org/10.3390/s20113213,0,0,0,0,1,0,0,0,0,0,0,1
+included,"Process mining of football event data: a novel approach for tactical insights into the
+game","Kröckel P, Bodendorf F",2020,https://doi.org/10.3389/frai.2020.00047,0,0,0,0,1,0,0,0,0,0,0,1
+included,"DNN-based multi-output model for predicting soccer
+team tactics","Lee GJ, Jung JJ",2022,https://doi.org/10.7717/peerj-cs.853,0,0,0,0,1,0,0,0,0,0,0,1
+included,"Optimising long-term outcomes using real-world fluent objectives:
+an application to football","Beal R, Chalkiadakis G, Norman TJ, Ramchurn SD",2021,https://doi.org/10.48550/arXiv.2102.09469,0,0,0,0,1,0,0,0,0,0,0,1
+included,Soccermap: a deep learning architecture for visually- interpretable analysis in soccer,"Fernández J, Bornn L",2020,https://doi.org/10.1007/978-3-030-67670-4_30,0,0,0,0,1,1,0,0,0,0,0,2
+included,Technical and tactical command decision algorithm of football matches based on big data and neural network,"Fang L, Wei Q, Xu CJ",2021,https://doi.org/10.1155/2021/5544071,0,0,0,0,1,0,0,0,0,0,0,1
+included,Using machine learning pipeline to predict entry into the attack zone in football,"Stival L, Pinto A, Andrade FdSPd, Santiago PRP,
+Biermann H, Torres RdS",2023,https://doi.org/10.1371/journal.pone.0265372,0,0,0,0,1,0,0,0,0,0,0,1
+excluded,Enhancements of pass play quantification method with geometric features of formations,"Mimura T, Nakada Y. Enhancements of pass play
+quantification method with geometric features of
+formations",2022,https://doi.org/10.1109/ICEET56468.2022.10007279,0,0,0,0,1,0,0,0,0,0,0,1
+included,"GOALALERT: A novel
+real-time technical team alert approach using machine learning on an IoT-based system in sports","Karakaya A, Ulu A, Akleylek S",2022,https://doi.org/10.1016/j.micpro.2022.104606,0,0,0,0,1,0,0,0,0,0,0,1
+included,Temporal match analysis and recommending substitutions in live soccer games,"Berman Y, Mistry S, Mathew J, Krishna A",2022,https://doi.org/10.1109/ICWS55610.2022.00066,0,0,0,0,1,0,0,0,0,0,0,1
+included,Prediction of defensive success in elite soccer using machine learning – Tactical analysis of defensive play using tracking data and explainable AI,"Forcher L, Beckmann T, Wohak O, Romeike C, Graf F,
+Altmann S",2023,https://doi.org/10.1080/24733938.2023.2239766,0,0,0,0,1,0,0,0,0,0,0,1
+included,"Discerning tactical
+patterns for professional soccer teams: An enhanced topic model with
+applications","Q. Wang, H. Zhu, W. Hu, Z. Shen, and Y. Yao",2015,http://dx.doi.org/10.1145/2783258.2788577,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Attacking and defensive styles of play in soccer: Analysis
+of Spanish and English elite teams","J. Fernandez-Navarro, L. Fradua, A. Zubillaga, P. R. Ford, and A. P.
+Mcrobert",2016,http://dx.doi.org/10.1080/02640414.2016.1169309,0,0,0,0,0,1,0,0,0,0,0,1
+included,Measuring football players’ on-theball contributions from passes during games,L. Bransen and J. Van Haaren,2018,http://dx.doi.org/10.1007/978-3-030-17274-9_1,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Automatic discovery of
+tactics in spatio-temporal soccer match data","T. Decroos, J. Van Haaren, and J. Davis",2018,http://dx.doi.org/10.1145/3219819.3219832,0,0,0,0,0,1,0,0,0,0,0,1
+included,"PlayeRank: Data-driven performance evaluation and
+player ranking in soccer via a machine learning approach","L. Pappalardo, P. Cintia, P. Ferragina, E. Massucco, D. Pedreschi, and
+F. Giannotti",2019,http://dx.doi.org/10.1145/3343172,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Flow motifs in soccer: What can
+passing behavior tell us?",J. Bekkers and S. Dabadghao,2019,http://dx.doi.org/10.3233/JSA-190290,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Deep soccer analytics:
+Learning an action-value function for evaluating soccer players,","G. Liu, Y. Luo, O. Schulte, and T. Kharrat",2020,https://doi.org/10.1007/s10618-020-00705-9,0,0,0,0,0,1,0,0,0,0,0,1
+included,"How data availability affects the ability
+to learn good xG models",P. Robberechts and J. Davis,2020,http://dx.doi.org/10.1007/978-3-030-64912-8_2,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Player vectors: Characterizing soccer
+players’ playing style from match event streams",T. Decroos and J. Davis,2020,http://dx.doi.org/10.1007/978-3-030-46133-1_34,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Why would I trust your numbers?” On the
+explainability of expected values in soccer",J. Van Haaren,2021,https://doi.org/10.48550/arXiv.2105.13778,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"What
+happened next? Using deep learning to value defensive actions in
+football event-data","C. Merhej, R. J. Beal, T. Matthews, and S. Ramchurn",2021,https://doi.org/10.1145/3447548.3467090,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Quantification of pass plays based on
+geometric features of formations in team sports",T. Mimura and Y. Nakada,2019,http://dx.doi.org/10.1145/3368926.3369673,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,Evaluating the effectiveness of styles of play in elite soccer,"J. Fernandez-Navarro, L. Fradua, A. Zubillaga, and A. P. McRobert",2019,http://dx.doi.org/10.1177/1747954119855361,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Evaluation of soccer
+team defense based on prediction models of ball recovery and being
+attacked","K. Toda, M. Teranishi, K. Kushiro, and K. Fujii",2021,https://doi.org/10.1371/journal.pone.0263051,0,0,0,0,0,1,0,0,0,0,0,1
+included,"A framework for the finegrained evaluation of the instantaneous expected value of soccer
+possessions","J. Fernández, L. Bornn, and D. Cervone",2021,https://doi.org/10.48550/arXiv.2011.09426,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Who can receive the pass? A
+computational model for quantifying availability in soccer","U. Dick, D. Link, and U. Brefeld",2022,http://dx.doi.org/10.1007/s10618-022-00827-2,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Analysis of motor and
+technical activities of professional soccer players of the UEFA Europa
+league","M. Andrzejewski, J. Chmura, and B. Pluta",2014,http://dx.doi.org/10.1080/24748668.2014.11868739,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Impact of technical and physical key performance indicators on ball
+possession in the Chinese super league","B. Gong, Y. Cui, S. Zhang, C. Zhou, Q. Yi, and M.-Á. Gómez-Ruano",2021,https://doi.org/10.1080/24748668.2021.1957296,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Visualization of dominant region in team
+games and its application to teamwork analysis",T. Taki and J. Hasegawa,2000,http://dx.doi.org/10.1109/CGI.2000.852338,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Spatial dynamics
+of team sports exposed by Voronoi diagrams","S. Fonseca, J. Milho, B. Travassos, and D. Araújo",2013,https://doi.org/10.1016/j.humov.2012.04.006,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Measuring spatial interaction behavior in team sports using
+superimposed Voronoi diagrams","S. Fonseca, J. Milho, B. Travassos, D. Araújo, and A. Lopes",2013,https://doi.org/10.1080/24748668.2013.11868640,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,An approximate computation of the dominant region diagram for the realtime analysis of group behaviors,"R. Nakanishi, J. Maeno, K. Murakami, and T. Naruse",2009,http://dx.doi.org/10.1007/978-3-642-11876-0_20,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Geometric analysis and quantitative
+evaluation of sport teamwork",A. Fujimura and K. Sugihara,2005,https://doi.org/10.1002/scj.20254,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Wide open spaces: A statistical technique for measuring space creation in professional
+soccer","J. Fernandez, F. Barcelona, and L. Bornn",2018,https://www.lukebornn.com/papers/fernandez_ssac_2018.pdf,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,Football analysis using spatiotemporal tools,J. Gudmundsson and T. Wolle,2012,http://dx.doi.org/10.1145/2424321.2424417,0,0,0,0,0,1,0,0,0,0,0,1
+included,Physicsbased modeling of pass probabilities in soccer,"W. Spearman, A. Basye, G. Dick, R. Hotovy, and P. Pop",2017,https://static.hudl.com/craft/downloads/SSAC17-Physics-Based-Modeling-of-Pass-Probabilities-in-Soccer.pdf?mtime=20180305082035,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Decomposing the
+immeasurable sport: A deep learning expected possession value
+framework for soccer","J. Fernández, L. Bornn, and D. Cervone",2019,https://www.sloansportsconference.com/research-papers/decomposing-the-immeasurable-sport-a-deep-learning-expected-possession-value-framework-for-soccer,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Making offensive play
+predictable-using a graph convolutional network to understand
+defensive performance in soccer","M. Stöckl, T. Seidl, D. Marley, and P. Power",2021,https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Player chemistry: Striving for a
+perfectly balanced soccer team",L. Bransen and J. Van Haaren,2020,https://doi.org/10.48550/arXiv.2003.01712,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Developing a data-driven player
+ranking in soccer using predictive model weights","J. Brooks, M. Kerr, and J. V. Guttag",2016,http://dx.doi.org/10.1145/2939672.2939695,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Evaluating soccer player: From live
+camera to deep reinforcement learning",P. Garnier and T. Gregoir,2021,https://doi.org/10.48550/arXiv.2101.05388,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Beyond
+action valuation: A deep reinforcement learning framework for
+optimizing player decisions in soccer","P. Rahimian, J. VanHaaren, T. Abzhanova, and L. Toka",2022,https://www.sloansportsconference.com/research-papers/beyond-action-valuation-a-deep-reinforcement-learning-framework-for-optimizing-player-decisions-in-soccer,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"ForVizor: Visualizing spatio-temporal team formations in
+soccer","Y. Wu, X. Xie, J. Wang, D. Deng, H. Liang, H. Zhang, S. Cheng, and
+W. Chen",2018,http://dx.doi.org/10.1109/TVCG.2018.2865041,0,0,0,0,0,1,0,0,0,0,0,1
+included,"SoccerCPD:
+Formation and role change-point detection in soccer matches using
+spatiotemporal tracking data","H. Kim, B. Kim, D. Chung, J. Yoo, and S.-K. Ko",2022,http://dx.doi.org/10.1145/3534678.3539150,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Multi-agent graph-attention
+communication and teaming","Y. Niu, R. Paleja, and M. Gombolay",2021,https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Cognition-driven multiagent policy
+learning framework for promoting cooperation","Z. Pu, H. Wang, B. Liu, and J. Yi",2022,https://doi.org/10.1109/TG.2022.3186386,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Neighborhood cognition consistent multi-agent reinforcement
+learning","H. Mao, W. Liu, J. Hao, J. Luo, D. Li, Z. Zhang, J. Wang, and Z. Xiao",2022,https://doi.org/10.48550/arXiv.1912.01160,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,GCS: Graph-based coordination strategy for multiagent reinforcement learning,"J. Ruan, Y. Du, X. Xiong, D. Xing, X. Li, L. Meng, H. Zhang, J.
+Wang, and B. Xu",2022,https://doi.org/10.48550/arXiv.2201.06257,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Adaptive inner-reward shaping in sparse
+reward games","D. Yang and Y. Tang,",2020,https://ieeexplore.ieee.org/abstract/document/9207302,0,0,0,0,0,1,0,0,0,0,0,1
+included,"ELIGN:
+Expectation alignment as a multi-agent intrinsic reward","Z. Ma, R. Wang, L. Fei-Fei, M. S. Bernstein, and R. Krishna",2020,https://doi.org/10.48550/arXiv.2210.04365,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"A model-based approach to
+solve the sparse reward problem","S. Li, X. Wang, W. Zhang, and X. Zhang",2021,http://dx.doi.org/10.1109/PRAI53619.2021.9551093,0,0,0,0,0,1,0,0,0,0,0,1
+included,"Individual reward assisted multi-agent reinforcement
+learning","L. Wang, Y. Zhang, Y. Hu, W. Wang, C. Zhang, Y. Gao, J. Hao, T.
+Lv, and C. Fan,",2022,https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,RODE: Learning roles to decompose multi-agent tasks,"T. Wang, T. Gupta, A. Mahajan, B. Peng, S. Whiteson, and C. Zhang",2020,https://doi.org/10.48550/arXiv.2010.01523,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Celebrating
+diversity in shared multi-agent reinforcement learning","C. Li, T. Wang, C. Wu, Q. Zhao, J. Yang, and C. Zhang",2021,https://doi.org/10.48550/arXiv.2106.02195,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Consensus learning for cooperative multi-agent reinforcement
+learning","Z. Xu, B. Zhang, D. Li, Z. Zhang, G. Zhou, H. Chen, and G. Fan",2022,https://doi.org/10.48550/arXiv.2206.02583,0,0,0,0,0,1,0,0,0,0,0,1
+excluded,"Machine Learning Classification of
+Verified Head Impact Exposure
+Strengthens Associations with Brain changes","DiCesare CA, Green B, Yuan W,
+Diekfuss JA, Barber Foss KD, Dudley J",2020,https://doi.org/10.1007/s10439-020-02662-2,0,0,0,0,0,0,1,0,0,0,0,1
+excluded,"Prediction of Tendinopathy Risk in Elite
+Team Sports. Int J Sports Physiol
+Perform. Int J Sports Physiol Perform","Rodas G, Osaba L, Arteta D,
+Fernández D, Lucía A. Genomic",2019,https://doi.org/10.5114/biolsport.2023.112970,0,0,0,0,0,0,1,0,0,0,0,1
+included,"Predicting match
+outcome according to the quality of
+opponent in the English premier league
+using situational variables and team
+performance indicator","Bilek G, Ulas E.",2019,http://dx.doi.org/10.1080/24748668.2019.1684773,0,0,0,0,0,0,1,0,0,0,0,1
+included,"Finding efficient
+strategies in 3-versus-2 small-sided
+games of youth soccer players","Leser R, Hoch T, Tan X, Moser B,
+Kellermayr G, Baca A",2019,http://dx.doi.org/10.26582/k.51.1.7,0,0,0,0,0,0,1,0,0,0,0,1
+included,"Who
+Will Score? A Machine Learning
+Approach to Supporting Football Team
+Building and Transfer","Ćwiklinski B, Giełczyk A, Choraś M",2021,https://doi.org/10.3390/e23010090,0,0,0,0,0,0,1,0,0,0,0,1
+included,"In-game behaviour
+analysis of football players using machine
+learning techniques based on player
+statistics","García-Aliaga A, Marquina M, Coterón J,
+Rodríguez-González A,
+Luengo-Sánchez S",2021,https://doi.org/10.1177/1747954120959762,0,0,0,0,0,0,1,0,0,0,0,1
+included,A hybrid ensemble learning framework for basketball outcomes prediction,"Cai, W., Yu, D., Wu, Z., Du, X. and Zhou, T",2019,https://doi.org/10.1016/J.PHYSA.2019.121461,0,0,0,0,0,0,0,1,0,0,0,1
+included,Predicting basketball results using a cascading algorithm,"Caliwag, J.A., Castillo, R.E., Aragon, M.C.R. and Colantes, E.M.S",2018,https://doi.org/10.1145/3209914.3209921,0,0,0,0,0,0,0,1,0,0,0,1
+included,The Impact of Selecting a Validation Method in Machine Learning on Predicting Basketball Game,"Horvat, T., Havaš, L., Symmetry, D.S",2020,https://doi.org/10.3390/sym12030431,0,0,0,0,0,0,0,1,0,0,0,1
+included,Machine learning approaches to predict basketball game outcome,"Kaur, H. and Jain, S",2017,https://doi.org/10.1109/ICACCAF.2017.8344688,0,0,0,0,0,0,0,1,0,0,0,1
+included,Adversarial synergy graph model for predicting game outcomes in human basketball,"Liemhetcharat, S. and Luo, Y",2015,https://ala2015.csc.liv.ac.uk/papers/ala15_liemhetcharat.pdf,0,0,0,0,0,0,0,1,0,0,0,1
+included,A novel basketball result prediction model using a concurrent neuro-fuzzy system,"Ozkan, I.A",2020,https://doi.org/10.1080/08839514.2020.1804229,0,0,0,0,0,0,0,1,0,0,0,1
+included,Neural network prediction of nfl football games,"Kahn, J.",2003,https://fr.scribd.com/presentation/60474842/kahn,1,0,0,1,0,0,0,0,0,1,0,3
+included,Analysis of basketball games using neural network,"Ivankovi_x0013_c, Z., Rackovi_x0013_c, M., Markoviski, B",2010,http://dx.doi.org/10.1109/CINTI.2010.5672237,0,0,0,1,0,0,0,0,1,1,0,3
+excluded,"Predicting the cricket match outcome using crowd opin-
+ions on social networks: A comparative study of machine learning method","Mustafa, R. U., Nawaz, S. M., Ikram Ullah Lali, M., Zia, T., & Mehmood, W",2017,https://doi.org/10.22452/mjcs.vol30no1.5,0,0,0,1,0,0,0,0,0,0,0,1
+excluded,"A machine learning approach to assess
+injury risk in elite youth football players","Rommers N, RÖssler R, Verhagen E,
+Vandecasteele F, Verstockt S, Vaeyens R,
+Lenoir M, D’Hondt E, Witvrouw E",2020,https://doi.org/10.1249/mss.0000000000002305,0,0,0,0,0,0,1,0,0,0,0,1
+included,"The tactics
+of successful attacks in professional
+association football: large-scale
+spatiotemporal analysis of dynamic
+subgroups using position tracking data","Goes FR, Brink MS, Elferink-Gemser MT, Kempe M, Lemmink KAP.M",2021,https://doi.org/10.1080/02640414.2020.1834689,0,0,0,0,1,0,1,0,0,0,0,2
+included,Team activity recognition in Association Football using a Bag-of-Words-based method,"Montoliu R, Martín-Félez R, Torres-Sospedra J,
+Martínez-Usó A",2015,https://doi.org/10.1016/j.humov.2015.03.007,0,0,0,0,1,0,0,0,0,0,0,1
+excluded,"Sport motion picture anal
+ysis as time series data","T. Maeda, M. Fujii, and I. Hayashi",2014,http://dx.doi.org/10.1109/AMC.2014.6823337,0,0,0,0,0,0,0,0,1,0,0,1
+included,"The application of data mining algorithm based
+ on association rules in the analysis of football tactics",W. Puchun,2016,http://dx.doi.org/10.1109/ICRIS.2016.87,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"A Machine LearningTool
+ for Supporting Advanced Knowledge Discovery from Chess
+ Game Data","J. A. Brown, A. Cuzzocrea, M. Kresta, K. D. Kristjanson, C.
+ K. Leung, andT.W. Tebinka",2017,http://dx.doi.org/10.1109/ICMLA.2017.00-87,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"A big data
+ analytical framework for sports behavior mining and person
+alized health services","V. S. Tseng, C. Chou, K. Yang, and J. C. Tseng",2017,http://dx.doi.org/10.1109/TAAI.2017.47,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Methods for Recognition and Classification of Human
+ Motion Patterns– A Prerequisite for Intelligent Devices Assist
+ing in Sports Activities",A.Baca,2012,https://doi.org/10.3182/20120215-3-AT-3016.00009,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Simplified swarm opti
+mization with sorted local search for golf data classification","Y. Liu, Y. Y. Chung, and W. C. Yeh",2012,https://doi.org/10.1109/CEC.2012.6256606,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,Mining trackman golf data,"U. Johansson, R. Konig, P. Brattberg, A. Dahlbom, and M.
+ Riveiro",2015,http://dx.doi.org/10.1109/CSCI.2015.77,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Clustering analysis of
+ sports performance based on ant colony algorithm","W. Jian, Z.-H. Hong, and Z.-Y. Zhou",2014,https://doi.ieeecomputersociety.org/10.1109/ISDEA.2014.71,0,0,0,0,0,0,0,0,1,0,0,1
+included,"Predicting all star player in the national basketball association
+ using random forest","G. Soliman, A. El-Nabawy, A. Misbah, and S. Eldawlatly",2017,http://dx.doi.org/10.1109/IntelliSys.2017.8324371,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Post
+ hoc analysis of sport performance with differential evolution","I.Fister,D.Fister,S.Deb,U.Mlakar,J.Brest",2018,https://link.springer.com/article/10.1007/s00521-018-3395-3,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Prediction model of sports results base
+ on knowledge discovery in data-base",B. Zhao and L. Chen,2016,https://ieeexplore.ieee.org/abstract/document/7733854,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"SSIE: An automatic data extractor for sports man
+agement in athletics modality","F. Sim˜oes, F. Matsunaga, A. Toda, J. Brancher, A. Junior, and
+ R. Busto",2015,http://dx.doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.23,0,0,0,0,0,0,0,0,1,0,0,1
+included,"Predictive analysis and modelling
+ football results using machine learning approach for English
+ Premier League",R. Baboota and H. Kaur,2018,http://dx.doi.org/10.1016/j.ijforecast.2018.01.003,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Generating eating plans for
+ athletes using the particle swarm optimization","D. Fister, I. Fister, and S. Rauter",2016,https://ieeexplore.ieee.org/abstract/document/7846402,0,0,0,0,0,0,0,0,1,0,0,1
+included,"Rating systems vs
+ machine learning on the context of sports","G. Kyriakides, K. Talattinis, and S. George",2014,http://dx.doi.org/10.1145/2645791.2645846,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,Adaptation of sport training plans by swarm intelligence,"I. Fister Jr, A. Iglesias, E. Osaba, U. Mlakar, and J. Brest",2017,https://iztok-jr-fister.eu/static/publications/208.pdf,0,0,0,0,0,0,0,0,1,0,0,1
+included,"Sports data mining: predicting
+ results for the college football games",C. K. Leung and K. W. Joseph,2014,https://doi.org/10.1016/j.procs.2014.08.153,0,0,0,0,0,0,0,0,1,0,1,2
+excluded,Study on the Decision Support System of Techniques and Tactics in Net Sports and the Application in Beijing Olympic Games,Y. Li and Y. Zhang,2012,http://dx.doi.org/10.2991/icsem.2013.102,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Artificial intelligence in sports on
+ the example of weight training",H. Novatchkovand A. Baca,2013,http://dx.doi.org/10.1109/MC.2019.2933772,0,0,0,0,0,0,0,0,1,0,0,1
+included,"Cognitive
+ skills learning: Pen input patterns in computer-based athlete
+ training","N.Ruiz,Q.Q.Feng,R.Taib,T.Handke,andF.Chen",2010,http://dx.doi.org/10.1145/1891903.1891955,0,0,0,0,0,0,0,0,1,0,0,1
+included,"Human decision making and
+ artificial intelligence: a comparison in the domain of sports
+ prediction",A. Pretorius and D. A. Parry,2016,http://dx.doi.org/10.1145/2987491.2987493,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Data mining in
+ sporting activities created by sports trackers","I. Fister Jr., I. Fister, D. Fister, and S. Fong",2013,http://dx.doi.org/10.1109/ISCBI.2013.25,0,0,0,0,0,0,0,0,1,0,0,1
+included,"Sports play visualiza
+tion system using trajectory mining method","T. Tani, H.-H. Huang, and K. Kawagoe,",2014,https://doi.org/10.1016/j.protcy.2014.11.020,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Planning
+ the sports training sessions with the bat algorithm","I.Fister,S.Rauter,X.-S.Yang,K.Ljubiˇ",2015,https://doi.org/10.1016/j.neucom.2014.07.034,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,Study on the Decision Support System of Techniques and Tactics in Net Sports and the Application in Beijing Olympic Games,"L.Yu,P.Ling, andH.Zhang",2010,http://dx.doi.org/10.1109/GCIS.2010.139,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Analyzing
+ volleyball matchdata from the 2014 world championships using
+ machine learning techniques","J. Van Haaren, H. B. Shitrit, J. Davis, and P. Fua",2016,http://dx.doi.org/10.1145/2939672.2939725,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Supporting athlete selection and strategic planning in track
+ cycling omnium: A statistical and machine learning approach","B. Ofoghi, J. Zeleznikow, C. Macmahon, andD. Dwyer",2013,http://dx.doi.org/10.1016/j.ins.2012.12.050,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Application of association rule
+ mining: A case study on team india",K. A. A. D. Raj and P. Padma,2013,http://dx.doi.org/10.1109/ICCCI.2013.6466294,0,0,0,0,0,0,0,0,1,0,0,1
+excluded,"Horse Racing Prediction 
+Using Artificial Neural Networks","Davoodi, E., Khanteymoori, A.R",2010,https://www.researchgate.net/profile/Alireza-Khanteymoori/publication/228847950_Horse_racing_prediction_using_artificial_neural_networks/links/53fc54590cf2dca8ffff0df8/Horse-racing-prediction-using-artificial-neural-networks.pdf,0,0,0,0,0,0,0,0,0,1,0,1
+excluded,"Application of 
+Neural and Regression Models in Sports Results Prediction","A.Maszczyka, A.Gołaśa, , A.Stanulaa , 
+P.Pietraszewskia, R.Rocznioka and A.Zająca",2014,https://doi.org/10.1016/j.sbspro.2014.02.249,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Deep Learning: A 
+Practitioner's Approach",J. Patterson and A. Gibson,2015,,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Predicting the Outcome of a 
+Chess Game by Statistical and Machine Learning techniques",H. Apolo,2016,https://upcommons.upc.edu/bitstream/handle/2117/106389/119749.pdf?sequence=1&isAllowed=y,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,Chess Game Result Prediction System,"Zheyuan Fan, Yuming Kuang, Xiaolin Lin",2013,https://cs229.stanford.edu/proj2013/FanKuangLin-ChessGameResultPredictionSystem.pdf,0,0,0,0,0,0,0,0,0,0,1,1
+included,A compound framework for sports results prediction: A football case study,"Byungho Min, Jinhyuck Kim, Chongyoun Choe and 
+Robert Ian",2008,https://doi.org/10.1016/j.knosys.2008.03.016,0,0,0,0,0,0,0,0,0,0,1,1
+included,"Bayesian 
+Hierarchical Modelling for the Prediction of Football 
+Results",Gianluca Baio and Marta Blangiardo,2009,http://dx.doi.org/10.1080/02664760802684177,0,0,0,0,0,0,0,0,0,0,1,1
+included,"an Improved Prediction System for Football 
+a Match Result","Igiri, Chinwe Peace, Nwachukwu, Enoch Okechukwu",2014,http://dx.doi.org/10.9790/3021-04124012020,0,0,0,0,0,0,0,0,0,0,1,1
+included,"An Artificial Neural Network
+based Prediction model for underdog Teams in NBA 
+Matches",Paolo Giuliodori,2017,https://ceur-ws.org/Vol-1971/paper-09.pdf,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Predicting Domestic Football 
+Matches Using Crowd Estimated Market Values",Frank Peschier,2015,,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"the Outcome of Football Matches From
+Point-by-Point Data",M. Bevc,2015,,0,0,0,0,0,0,0,0,0,0,1,1
+included,pi-football: A Bayesian network model for forecasting Association Football match outcomes,"C. Constantinaou, N. E. Fenton and M. Neil",2012,https://doi.org/10.1016/j.knosys.2012.07.008,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Machine Learning a Probabilistic 
+Perspective",Kevin P. Murphy,2017,,0,0,0,0,0,0,0,0,0,0,1,1
+included,"football predictions based on a fuzzy model with genetic and 
+neural tuning","P. Rotshtein, M. Posner, and A. B. Rakityanskaya",2015,http://dx.doi.org/10.1007/s10559-005-0098-4,0,0,0,0,0,0,0,0,0,0,1,1
+included,"Predicting NBA Game 
+Outcomes with Hidden Markov Models",Vashisht Madhavan,2016,,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Psychophysiological 
+profile and prediction equationsfor technical performance 
+of football players","Marcelo S. Vaz, Yuri S. Ribeiro, Eraldo S. Pinheiro, Fabrício B. Del Vecchio",2018,https://doi.org/10.1016/j.rbce.2018.04.009,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Predicting Results of Brazilian 
+Soccer League Matches",Alberto Tavares,2018,https://fr.scribd.com/document/352414830/TrindadeTavares-rpt,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Computational Intelligence in Complex 
+Decision Systems",Da Ruan,2010,https://link.springer.com/book/10.2991/978-94-91216-29-9,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Soft Computing in Artificial 
+Intelligence",Janusz Kacprzyk,2014,,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Uncertainty coeffecient as 
+a method for optimization of the competition systems in 
+various sports",J. Sindik and N. Vidal,2009,https://www.researchgate.net/publication/228830768_Uncertainty_coefficient_as_a_method_for_optimization_of_the_competition_system_in_table-tennis_leagues_in_sokaz/link/0046351e700f21317e000000/download?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwdWJsaWNhdGlvbiIsInByZXZpb3VzUGFnZSI6bnVsbH19,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"A-state, A-trait and the performance 
+of 14-15 years old football players","Mitrache Georgetaa, Predoiu Radua, Coli Eugenb,Coli Danielac",2014,https://doi.org/10.1016/j.sbspro.2014.03.264,0,0,0,0,0,0,0,0,0,0,1,1
+excluded,"Analysis of the football performance: 
+from classical methods to neural network",Y. Y. Petrunin,2011,,0,0,0,0,0,0,0,0,0,0,1,1
+included,"A state-space model 
+for national football league scores","Glickman, M.E. and Stern, H.S",2017,https://math.bu.edu/people/mg/papers/nfl.pdf,0,0,0,0,0,0,0,0,0,0,1,1
