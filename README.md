@@ -1,10 +1,10 @@
-# Data: The Use of Machine Learning in Performance Analysis in Team Sports — An Umbrella Review
+# Supplementary Material: The Use of Machine Learning in Performance Analysis in Team Sports — An Umbrella Review
 
 **Klemp, M., Bassek, M., Garnica Caparròs, M., Bakhtiar, L. A., & Memmert, D. (2026). The use of machine learning in performance analysis in team sports: Umbrella review of reviews. *Journal of Sports Sciences*. https://doi.org/10.1080/02640414.2026.2636863**
 
 ---
 
-This repository contains the supplemental material accompanying the umbrella review manuscript *"The Use of Machine Learning in Performance Analysis in Team Sports: Umbrella Review of Reviews"*. The data support all quantitative analyses reported in the manuscript and are provided to ensure transparency and reproducibility.
+This repository contains the supplementary material accompanying the umbrella review manuscript *"The Use of Machine Learning in Performance Analysis in Team Sports: Umbrella Review of Reviews"*. The data support all quantitative analyses reported in the manuscript and are provided to ensure transparency and reproducibility.
 
 ---
 
